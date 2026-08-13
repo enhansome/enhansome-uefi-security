@@ -254,7 +254,7 @@
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7877
+            "stars": 7880
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6052
+            "stars": 6051
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5623
+            "stars": 5624
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2513
+            "stars": 2515
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2020-05-22T09:36:27Z",
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 446
+            "stars": 445
           }
         },
         {
@@ -475,7 +475,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T08:38:04Z",
+            "last_commit": "2026-08-13T06:55:30Z",
             "owner": "intel",
             "repo": "tsffs",
             "stars": 331
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:11:34.450Z",
+    "last_updated": "2026-08-13T10:17:38.907Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
