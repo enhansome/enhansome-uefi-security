@@ -1,0 +1,868 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DVUEFI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-09T16:29:14Z",
+            "owner": "hacking-support",
+            "repo": "DVUEFI",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIUCTF-2022 SMM Cow Say 1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T01:00:14Z",
+            "owner": "sigpwny",
+            "repo": "UIUCTF-2022-Public",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIUCTF-2022 SMM Cow Say 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T01:00:14Z",
+            "owner": "sigpwny",
+            "repo": "UIUCTF-2022-Public",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIUCTF-2022 SMM Cow Say 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T01:00:14Z",
+            "owner": "sigpwny",
+            "repo": "UIUCTF-2022-Public",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D^3CTF-2022-pwn-d3guard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-09T14:43:44Z",
+            "owner": "yikesoftware",
+            "repo": "d3ctf-2022-pwn-d3guard",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "CTF-Challenges"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uefi-rs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T09:32:54Z",
+            "owner": "rust-osdev",
+            "repo": "uefi-rs",
+            "stars": 1642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UEFI-Lessons",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-05T21:09:24Z",
+            "owner": "Kostr",
+            "repo": "UEFI-Lessons",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arch-secure-boot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-18T11:21:45Z",
+            "owner": "max-baz",
+            "repo": "arch-secure-boot",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edk2-libc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T07:55:45Z",
+            "owner": "tianocore",
+            "repo": "edk2-libc",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edk2-pytool-library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T01:02:57Z",
+            "owner": "tianocore",
+            "repo": "edk2-pytool-library",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDK II",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Development :computer:"
+    },
+    {
+      "description": "ATT&CK Attack Vector\nBootkits related repositories:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SmmBackdoor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-09T20:38:16Z",
+            "owner": "Cr4sh",
+            "repo": "SmmBackdoor",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "umap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-01T01:32:30Z",
+            "owner": "btbd",
+            "repo": "umap",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UEFI-Bootkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-08-29T14:16:09Z",
+            "owner": "ajkhoury",
+            "repo": "UEFI-Bootkit",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PeiBackdoor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-01T18:02:28Z",
+            "owner": "Cr4sh",
+            "repo": "PeiBackdoor",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoJax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-09T14:57:53Z",
+            "owner": "loneicewolf",
+            "repo": "LOJAX",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootlicker",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Bootkits :bomb:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PciLeech",
+          "description": "PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-25T20:12:35Z",
+            "owner": "ufrisk",
+            "repo": "pcileech",
+            "stars": 7877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qiling",
+          "description": "Qiling has an EFI mode, which can partially emulate UEFI binary files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T14:09:44Z",
+            "owner": "qilingframework",
+            "repo": "qiling",
+            "stars": 6052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UEFITool",
+          "description": "Tool for parsing and extracting UEFI firmware images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T01:21:27Z",
+            "owner": "LongSoft",
+            "repo": "UEFITool",
+            "stars": 5623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chipsec",
+          "description": "The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:41:44Z",
+            "owner": "chipsec",
+            "repo": "chipsec",
+            "stars": 3294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EfiGuard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-16T23:48:44Z",
+            "owner": "Mattiwatti",
+            "repo": "EfiGuard",
+            "stars": 2513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uefi-rs",
+          "description": "A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T09:32:54Z",
+            "owner": "rust-osdev",
+            "repo": "uefi-rs",
+            "stars": 1642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "innoextract",
+          "description": "A tool to unpack installers created by Inno Setup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-06T21:28:26Z",
+            "owner": "dscharrer",
+            "repo": "innoextract",
+            "stars": 1334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efiXplorer",
+          "description": "IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-06T02:07:58Z",
+            "owner": "REhints",
+            "repo": "efiXplorer",
+            "stars": 1119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BIOSUtiities",
+          "description": "A lot of scripts to parse and extract UEFI firmware images directly from exe files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-01T22:32:11Z",
+            "owner": "platomav",
+            "repo": "BIOSUtilities",
+            "stars": 1072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uefi-firmware-parser",
+          "description": "Library for parsing UEFI firmware images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T21:27:57Z",
+            "owner": "theopolis",
+            "repo": "uefi-firmware-parser",
+            "stars": 919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efi-memory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-11-30T20:36:37Z",
+            "owner": "SamuelTulach",
+            "repo": "efi-memory",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra-firmware-utils",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-29T04:10:44Z",
+            "owner": "al3xtjames",
+            "repo": "ghidra-firmware-utils",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dropWPBT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-05-22T09:36:27Z",
+            "owner": "Jamesits",
+            "repo": "dropWPBT",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efiSeek",
+          "description": "A Ghidra plugin for UEFI binaries analyzing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-02T21:49:20Z",
+            "owner": "DSecurity",
+            "repo": "efiSeek",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fiano",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-14T21:51:33Z",
+            "owner": "linuxboot",
+            "repo": "fiano",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uefi-retool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-12-28T22:50:41Z",
+            "owner": "yeggor",
+            "repo": "uefi_retool",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsffs",
+          "description": "A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T08:38:04Z",
+            "owner": "intel",
+            "repo": "tsffs",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fwexpl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-13T16:27:41Z",
+            "owner": "Cr4sh",
+            "repo": "fwexpl",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FwHunt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-12T18:13:50Z",
+            "owner": "binarly-io",
+            "repo": "FwHunt",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fwhunt-scan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-02T18:17:19Z",
+            "owner": "binarly-io",
+            "repo": "fwhunt-scan",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VBiosFinder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-11-05T02:03:34Z",
+            "owner": "coderobe",
+            "repo": "VBiosFinder",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efi_fuzz",
+          "description": "A coverage-guided emulator-based NVRAM fuzzer for UEFI (based on qiling).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-02T18:24:14Z",
+            "owner": "Sentinel-One",
+            "repo": "efi_fuzz",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UefiVarMonitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-09T04:42:45Z",
+            "owner": "tandasat",
+            "repo": "UefiVarMonitor",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kraft_dinner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-12-24T17:06:07Z",
+            "owner": "tandasat",
+            "repo": "kraft_dinner",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brick",
+          "description": "IDA Pro plugin, a static vulnerability scanner, support several types of vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-06-18T14:35:08Z",
+            "owner": "Sentinel-One",
+            "repo": "brick",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efi_dxe_emulator",
+          "description": "A simple emulator for UEFI DXE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-04-29T14:55:15Z",
+            "owner": "assafcarlsbad",
+            "repo": "efi_dxe_emulator",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smram_parse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-09T15:44:44Z",
+            "owner": "Cr4sh",
+            "repo": "smram_parse",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ebvm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-29T05:35:17Z",
+            "owner": "yabits",
+            "repo": "ebcvm",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efi-resolver",
+          "description": "Official UEFI plugin for Binary Ninja; it supports type propogation, which is really cool, and it starts supporting PEI files now.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-07-25T13:08:38Z",
+            "owner": "Vector35",
+            "repo": "efi-resolver",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UEFI-SecureBoot-SignTool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-10-24T15:12:24Z",
+            "owner": "aneesh-neelam",
+            "repo": "UEFI-SecureBoot-SignTool",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-uefivars",
+          "description": "A python tool to inspect UEFI variables (but it cannot take firmware images as input).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-13T14:25:10Z",
+            "owner": "awslabs",
+            "repo": "python-uefivars",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efi-inspector",
+          "description": "A Binary Ninja plugin for parsing UEFI firmware images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-28T20:42:44Z",
+            "owner": "zznop",
+            "repo": "efi-inspector",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bob_efi_fuzzer",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Tools :hammer:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Super-UEFIinSecureBoot-Disk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-20T22:05:46Z",
+            "owner": "ValdikSS",
+            "repo": "Super-UEFIinSecureBoot-Disk",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThinkPwn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-05-13T16:23:34Z",
+            "owner": "Cr4sh",
+            "repo": "ThinkPwn",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVE-2022-21894",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-27T06:44:27Z",
+            "owner": "Wack0",
+            "repo": "CVE-2022-21894",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulnerability-REsearch",
+          "description": "Vulnerabilities found by Binarly-IO, really a lot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:47:34Z",
+            "owner": "binarly-io",
+            "repo": "Vulnerability-REsearch",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmmExploit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-29T12:33:38Z",
+            "owner": "tandasat",
+            "repo": "SmmExploit",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UsbRt_ROP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T14:39:51Z",
+            "owner": "binarly-io",
+            "repo": "Research_Publications",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aptiocalypsis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-10-22T17:27:11Z",
+            "owner": "Cr4sh",
+            "repo": "Aptiocalypsis",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vulnerability-disclosures",
+          "description": "Vulnerabilities found by ESET, some of the vulnerabilities in the repo related to UEFI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-13T20:00:01Z",
+            "owner": "eset",
+            "repo": "vulnerability-disclosures",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vulnerabilities",
+          "description": "Vulnerabilities found by 10TG, some of the vulnerabilities related to UEFI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-15T12:10:17Z",
+            "owner": "10TG",
+            "repo": "vulnerabilities",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CERT/CC UEFI Analysis Resources",
+          "description": "This repo contains an example of CVE-2021-28216",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-11-04T17:11:17Z",
+            "owner": "CERTCC",
+            "repo": "UEFI-Analysis-Resources",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Vulnerabilities & Exploits :mag_right:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talks :speaker:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers :page_with_curl:"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:34.450Z",
+    "original_repository": "river-li/awesome-uefi-security",
+    "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
+    "enhanced_repository": "enhansome/enhansome-uefi-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome UEFI Security with stars"
+  }
+}
