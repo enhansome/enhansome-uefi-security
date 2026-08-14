@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T09:32:54Z",
+            "last_commit": "2026-08-14T09:43:18Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1642
@@ -268,7 +268,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6051
+            "stars": 6052
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5624
+            "stars": 5625
           }
         },
         {
@@ -293,10 +293,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T17:41:44Z",
+            "last_commit": "2026-08-13T22:03:03Z",
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3294
+            "stars": 3295
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2515
+            "stars": 2516
           }
         },
         {
@@ -321,7 +321,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T09:32:54Z",
+            "last_commit": "2026-08-14T09:43:18Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1642
@@ -338,7 +338,7 @@
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1334
+            "stars": 1336
           }
         },
         {
@@ -349,7 +349,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-06T02:07:58Z",
+            "last_commit": "2026-08-14T03:19:28Z",
             "owner": "REhints",
             "repo": "efiXplorer",
             "stars": 1119
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:17:38.907Z",
+    "last_updated": "2026-08-14T10:12:46.814Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
