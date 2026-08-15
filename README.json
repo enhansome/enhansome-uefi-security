@@ -268,7 +268,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6052
+            "stars": 6056
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2516
+            "stars": 2517
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1336
+            "stars": 1337
           }
         },
         {
@@ -349,10 +349,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T03:19:28Z",
+            "last_commit": "2026-08-15T03:55:00Z",
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1119
+            "stars": 1123
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1072
+            "stars": 1071
           }
         },
         {
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:12:46.814Z",
+    "last_updated": "2026-08-15T09:33:38.421Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
