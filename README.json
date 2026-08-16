@@ -70,7 +70,7 @@
             "last_commit": "2022-03-09T14:43:44Z",
             "owner": "yikesoftware",
             "repo": "d3ctf-2022-pwn-d3guard",
-            "stars": 13
+            "stars": 14
           }
         }
       ],
@@ -268,7 +268,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6056
+            "stars": 6061
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1071
+            "stars": 1072
           }
         },
         {
@@ -436,7 +436,7 @@
             "last_commit": "2024-06-02T21:49:20Z",
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2020-12-24T17:06:07Z",
             "owner": "tandasat",
             "repo": "kraft_dinner",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-06T12:47:34Z",
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
-            "stars": 195
+            "stars": 196
           }
         },
         {
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:33:38.421Z",
+    "last_updated": "2026-08-16T09:34:45.877Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
