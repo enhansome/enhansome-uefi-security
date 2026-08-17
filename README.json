@@ -14,7 +14,7 @@
             "last_commit": "2024-09-09T16:29:14Z",
             "owner": "hacking-support",
             "repo": "DVUEFI",
-            "stars": 305
+            "stars": 306
           }
         },
         {
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T09:43:18Z",
+            "last_commit": "2026-08-17T07:07:30Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1642
+            "stars": 1641
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-01-01T01:32:30Z",
             "owner": "btbd",
             "repo": "umap",
-            "stars": 600
+            "stars": 601
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6061
+            "stars": 6063
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5625
+            "stars": 5626
           }
         },
         {
@@ -293,10 +293,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:03:03Z",
+            "last_commit": "2026-08-17T01:08:46Z",
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3295
+            "stars": 3296
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2517
+            "stars": 2518
           }
         },
         {
@@ -321,10 +321,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T09:43:18Z",
+            "last_commit": "2026-08-17T07:07:30Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1642
+            "stars": 1641
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1337
+            "stars": 1338
           }
         },
         {
@@ -352,7 +352,7 @@
             "last_commit": "2026-08-15T03:55:00Z",
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1123
+            "stars": 1124
           }
         },
         {
@@ -604,7 +604,7 @@
             "last_commit": "2020-04-29T14:55:15Z",
             "owner": "assafcarlsbad",
             "repo": "efi_dxe_emulator",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -742,7 +742,7 @@
             "last_commit": "2023-09-27T06:44:27Z",
             "owner": "Wack0",
             "repo": "CVE-2022-21894",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-06T12:47:34Z",
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
-            "stars": 196
+            "stars": 195
           }
         },
         {
@@ -784,7 +784,7 @@
             "last_commit": "2026-03-09T14:39:51Z",
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 136
+            "stars": 135
           }
         },
         {
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:34:45.877Z",
+    "last_updated": "2026-08-17T09:51:49.999Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
