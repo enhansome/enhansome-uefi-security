@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T07:07:30Z",
+            "last_commit": "2026-08-17T12:02:21Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1641
@@ -254,7 +254,7 @@
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7880
+            "stars": 7884
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6063
+            "stars": 6064
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5626
+            "stars": 5627
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2518
+            "stars": 2519
           }
         },
         {
@@ -321,7 +321,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T07:07:30Z",
+            "last_commit": "2026-08-17T12:02:21Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1641
@@ -338,7 +338,7 @@
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1338
+            "stars": 1340
           }
         },
         {
@@ -352,7 +352,7 @@
             "last_commit": "2026-08-15T03:55:00Z",
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1124
+            "stars": 1123
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1072
+            "stars": 1073
           }
         },
         {
@@ -784,7 +784,7 @@
             "last_commit": "2026-03-09T14:39:51Z",
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 135
+            "stars": 134
           }
         },
         {
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:51:49.999Z",
+    "last_updated": "2026-08-18T09:41:11.973Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
