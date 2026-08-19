@@ -318,7 +318,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5628
+            "stars": 5630
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2519
+            "stars": 2520
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1073
+            "stars": 1075
           }
         },
         {
@@ -917,8 +917,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:41:44.716Z",
+    "last_updated": "2026-08-19T12:56:24.214Z",
     "original_repository": "river-li/awesome-uefi-security",
+    "original_repository_id": 611109201,
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
     "enhanced_repository_description": null,
