@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 767811269,
             "language": "C++",
             "last_commit": "2024-09-09T16:29:14Z",
             "owner": "hacking-support",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522753433,
             "language": "Python",
             "last_commit": "2022-08-09T01:00:14Z",
             "owner": "sigpwny",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522753433,
             "language": "Python",
             "last_commit": "2022-08-09T01:00:14Z",
             "owner": "sigpwny",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522753433,
             "language": "Python",
             "last_commit": "2022-08-09T01:00:14Z",
             "owner": "sigpwny",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 466682541,
             "language": "Python",
             "last_commit": "2022-03-09T14:43:44Z",
             "owner": "yikesoftware",
@@ -77,7 +82,7 @@
       "title": "CTF-Challenges"
     },
     {
-      "description": "",
+      "description": "Some interesting projects",
       "items": [
         {
           "node_type": "item",
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-17T12:02:21Z",
+            "last_commit": "2026-08-19T06:35:35Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1641
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376362454,
             "language": "C",
             "last_commit": "2024-03-05T21:09:24Z",
             "owner": "Kostr",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290049280,
             "language": "Shell",
             "last_commit": "2024-07-18T11:21:45Z",
             "owner": "max-baz",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184125224,
             "language": "Python",
             "last_commit": "2026-08-11T07:55:45Z",
             "owner": "tianocore",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189661442,
             "language": "Python",
             "last_commit": "2026-07-27T01:02:57Z",
             "owner": "tianocore",
@@ -151,9 +161,33 @@
         },
         {
           "node_type": "item",
-          "title": "EDK II",
+          "title": "mitnal",
           "description": null,
-          "children": []
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 453031592,
+            "language": "C",
+            "last_commit": "2022-01-31T03:20:02Z",
+            "owner": "arata-nvm",
+            "repo": "mitnal",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uefi-paint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200303121,
+            "language": "Zig",
+            "last_commit": "2019-09-20T16:45:25Z",
+            "owner": "nrdmn",
+            "repo": "uefi-paint",
+            "stars": 50
+          }
         }
       ],
       "title": "Development :computer:"
@@ -168,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38600240,
             "language": "C",
             "last_commit": "2023-10-09T20:38:16Z",
             "owner": "Cr4sh",
@@ -182,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256274514,
             "language": "C",
             "last_commit": "2024-01-01T01:32:30Z",
             "owner": "btbd",
             "repo": "umap",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -196,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72712725,
             "language": "C",
             "last_commit": "2019-08-29T14:16:09Z",
             "owner": "ajkhoury",
@@ -210,11 +247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66751159,
             "language": "C",
             "last_commit": "2021-05-01T18:02:28Z",
             "owner": "Cr4sh",
             "repo": "PeiBackdoor",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -224,24 +262,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323072059,
             "language": null,
             "last_commit": "2023-03-09T14:57:53Z",
             "owner": "loneicewolf",
             "repo": "LOJAX",
             "stars": 38
           }
-        },
-        {
-          "node_type": "item",
-          "title": "bootlicker",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Bootkits :bomb:"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -250,11 +283,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64324413,
             "language": "C",
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7884
+            "stars": 7890
           }
         },
         {
@@ -264,11 +298,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203799854,
             "language": "Python",
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6064
+            "stars": 6065
           }
         },
         {
@@ -278,11 +313,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13405986,
             "language": "C",
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5627
+            "stars": 5628
           }
         },
         {
@@ -292,11 +328,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-17T01:08:46Z",
+            "last_commit": "2026-08-18T20:59:06Z",
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3296
+            "stars": 3297
           }
         },
         {
@@ -306,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177653781,
             "language": "C++",
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
@@ -320,8 +358,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-17T12:02:21Z",
+            "last_commit": "2026-08-19T06:35:35Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1641
@@ -334,11 +373,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3588683,
             "language": "C++",
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1340
+            "stars": 1341
           }
         },
         {
@@ -348,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276023403,
             "language": "C++",
             "last_commit": "2026-08-15T03:55:00Z",
             "owner": "REhints",
@@ -362,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146931530,
             "language": "Python",
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
@@ -376,11 +418,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16303018,
             "language": "Python",
             "last_commit": "2026-06-04T21:27:57Z",
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 919
+            "stars": 920
           }
         },
         {
@@ -390,11 +433,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 255422006,
             "language": "C++",
             "last_commit": "2024-11-30T20:36:37Z",
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 586
+            "stars": 587
           }
         },
         {
@@ -404,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188863427,
             "language": "Java",
             "last_commit": "2026-07-29T04:10:44Z",
             "owner": "al3xtjames",
@@ -418,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258087333,
             "language": "C",
             "last_commit": "2020-05-22T09:36:27Z",
             "owner": "Jamesits",
@@ -432,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277093823,
             "language": "Java",
             "last_commit": "2024-06-02T21:49:20Z",
             "owner": "DSecurity",
@@ -446,11 +493,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122654287,
             "language": "Go",
             "last_commit": "2026-05-14T21:51:33Z",
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 369
+            "stars": 370
           }
         },
         {
@@ -460,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 157477242,
             "language": "Python",
             "last_commit": "2024-12-28T22:50:41Z",
             "owner": "yeggor",
@@ -474,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690799710,
             "language": "Rust",
             "last_commit": "2026-08-13T06:55:30Z",
             "owner": "intel",
@@ -488,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52451769,
             "language": "C++",
             "last_commit": "2022-05-13T16:27:41Z",
             "owner": "Cr4sh",
@@ -502,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433589415,
             "language": null,
             "last_commit": "2024-03-12T18:13:50Z",
             "owner": "binarly-io",
@@ -516,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268312085,
             "language": "Python",
             "last_commit": "2025-05-02T18:17:19Z",
             "owner": "binarly-io",
@@ -530,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115261003,
             "language": "Ruby",
             "last_commit": "2023-11-05T02:03:34Z",
             "owner": "coderobe",
@@ -544,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 299978550,
             "language": "Python",
             "last_commit": "2025-05-02T18:24:14Z",
             "owner": "Sentinel-One",
@@ -558,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259111829,
             "language": "C",
             "last_commit": "2020-10-09T04:42:45Z",
             "owner": "tandasat",
@@ -572,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323376883,
             "language": "C",
             "last_commit": "2020-12-24T17:06:07Z",
             "owner": "tandasat",
@@ -586,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 374822898,
             "language": "Python",
             "last_commit": "2024-06-18T14:35:08Z",
             "owner": "Sentinel-One",
@@ -600,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240052733,
             "language": "C",
             "last_commit": "2020-04-29T14:55:15Z",
             "owner": "assafcarlsbad",
@@ -614,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71626933,
             "language": "Python",
             "last_commit": "2024-08-09T15:44:44Z",
             "owner": "Cr4sh",
@@ -628,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151960815,
             "language": "C",
             "last_commit": "2023-01-29T05:35:17Z",
             "owner": "yabits",
@@ -642,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 653873241,
             "language": "Python",
             "last_commit": "2025-07-25T13:08:38Z",
             "owner": "Vector35",
@@ -656,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89032180,
             "language": "Shell",
             "last_commit": "2019-10-24T15:12:24Z",
             "owner": "aneesh-neelam",
@@ -670,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394762524,
             "language": "Python",
             "last_commit": "2024-09-13T14:25:10Z",
             "owner": "awslabs",
@@ -684,24 +748,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764830074,
             "language": "Python",
             "last_commit": "2024-02-28T20:42:44Z",
             "owner": "zznop",
             "repo": "efi-inspector",
             "stars": 12
           }
-        },
-        {
-          "node_type": "item",
-          "title": "bob_efi_fuzzer",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Tools :hammer:"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -710,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172407982,
             "language": null,
             "last_commit": "2022-06-20T22:05:46Z",
             "owner": "ValdikSS",
@@ -724,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62154566,
             "language": "C",
             "last_commit": "2022-05-13T16:23:34Z",
             "owner": "Cr4sh",
@@ -738,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523015625,
             "language": "C",
             "last_commit": "2023-09-27T06:44:27Z",
             "owner": "Wack0",
@@ -752,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 386091851,
             "language": "Python",
             "last_commit": "2026-08-06T12:47:34Z",
             "owner": "binarly-io",
@@ -766,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325836310,
             "language": null,
             "last_commit": "2021-03-29T12:33:38Z",
             "owner": "tandasat",
@@ -780,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313216202,
             "language": "Python",
             "last_commit": "2026-03-09T14:39:51Z",
             "owner": "binarly-io",
@@ -794,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71630197,
             "language": "Python",
             "last_commit": "2016-10-22T17:27:11Z",
             "owner": "Cr4sh",
@@ -808,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276107160,
             "language": null,
             "last_commit": "2022-07-13T20:00:01Z",
             "owner": "eset",
@@ -822,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 533667047,
             "language": null,
             "last_commit": "2023-05-15T12:10:17Z",
             "owner": "10TG",
@@ -836,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 424674388,
             "language": "PHP",
             "last_commit": "2021-11-04T17:11:17Z",
             "owner": "CERTCC",
@@ -845,20 +914,10 @@
         }
       ],
       "title": "Vulnerabilities & Exploits :mag_right:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Talks :speaker:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Papers :page_with_curl:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:41:11.973Z",
+    "last_updated": "2026-08-19T09:41:44.716Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
