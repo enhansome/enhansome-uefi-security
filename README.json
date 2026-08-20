@@ -93,10 +93,10 @@
             "archived": false,
             "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-19T06:35:35Z",
+            "last_commit": "2026-08-19T20:08:16Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1641
+            "stars": 1642
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7890
+            "stars": 7891
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5630
+            "stars": 5631
           }
         },
         {
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-19T06:35:35Z",
+            "last_commit": "2026-08-19T20:08:16Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1641
+            "stars": 1642
           }
         },
         {
@@ -390,10 +390,10 @@
             "archived": false,
             "id": 276023403,
             "language": "C++",
-            "last_commit": "2026-08-15T03:55:00Z",
+            "last_commit": "2026-08-20T00:14:15Z",
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1123
+            "stars": 1124
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:24.214Z",
+    "last_updated": "2026-08-20T09:43:14.016Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_id": 611109201,
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
