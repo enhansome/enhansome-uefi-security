@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7891
+            "stars": 7894
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6068
+            "stars": 6069
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2519
+            "stars": 2521
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1338
+            "stars": 1340
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-20T00:14:15Z",
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1122
+            "stars": 1123
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:35:07.619Z",
+    "last_updated": "2026-08-23T09:35:33.341Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_id": 611109201,
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
