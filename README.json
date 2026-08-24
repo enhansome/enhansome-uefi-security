@@ -93,7 +93,7 @@
             "archived": false,
             "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-19T20:08:16Z",
+            "last_commit": "2026-08-24T08:11:49Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1644
@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7894
+            "stars": 7895
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6069
+            "stars": 6072
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5632
+            "stars": 5637
           }
         },
         {
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-22T00:22:57Z",
+            "last_commit": "2026-08-24T01:06:47Z",
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3294
@@ -360,7 +360,7 @@
             "archived": false,
             "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-19T20:08:16Z",
+            "last_commit": "2026-08-24T08:11:49Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1644
@@ -378,7 +378,7 @@
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1340
+            "stars": 1343
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-20T00:14:15Z",
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1123
+            "stars": 1124
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1075
+            "stars": 1076
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:35:33.341Z",
+    "last_updated": "2026-08-24T09:56:34.696Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_id": 611109201,
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
