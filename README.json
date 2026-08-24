@@ -834,7 +834,7 @@
             "last_commit": "2021-03-29T12:33:38Z",
             "owner": "tandasat",
             "repo": "SmmExploit",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -914,10 +914,106 @@
         }
       ],
       "title": "Vulnerabilities & Exploits :mag_right:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "AVAR The Evolution of Threat Actors: Firmware is the Next Frontier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313216202,
+            "language": "Python",
+            "last_commit": "2026-03-09T14:39:51Z",
+            "owner": "binarly-io",
+            "repo": "Research_Publications",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Blackhat Asia The Firmware Supply-Chain Security Is Broken: Can We Fix It?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313216202,
+            "language": "Python",
+            "last_commit": "2026-03-09T14:39:51Z",
+            "owner": "binarly-io",
+            "repo": "Research_Publications",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CanSecWest TPM Genie Attacking the Hardware Root of Trust For Less Than $50",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124109856,
+            "language": "C++",
+            "last_commit": "2021-01-04T15:49:11Z",
+            "owner": "nccgroup",
+            "repo": "TPMGenie",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "DEFCON Safeguarding rootkits: IntelBootGuard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84607214,
+            "language": null,
+            "last_commit": "2020-12-03T11:21:52Z",
+            "owner": "flothrone",
+            "repo": "bootguard",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "H2HC Data-only Attacks Against UEFI BIOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313216202,
+            "language": "Python",
+            "last_commit": "2026-03-09T14:39:51Z",
+            "owner": "binarly-io",
+            "repo": "Research_Publications",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Offensive Con UEFI Firmware Vulnerabilities: Past, Present and Future",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313216202,
+            "language": "Python",
+            "last_commit": "2026-03-09T14:39:51Z",
+            "owner": "binarly-io",
+            "repo": "Research_Publications",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "Talks :speaker:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:56:34.696Z",
+    "last_updated": "2026-08-24T14:30:14.458Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_id": 611109201,
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",

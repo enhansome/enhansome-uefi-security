@@ -35,11 +35,11 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## Development :computer:
 
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,644 | 🐛 34 | 🌐 Rust | 📅 2026-08-24
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,644 | 🐛 33 | 🌐 Rust | 📅 2026-08-24
 * [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons) ⭐ 366 | 🐛 1 | 🌐 C | 📅 2024-03-05
 * [arch-secure-boot](https://github.com/maximbaz/arch-secure-boot) ⭐ 146 | 🐛 3 | 🌐 Shell | 📅 2024-07-18
 * [edk2-libc](https://github.com/tianocore/edk2-libc) ⭐ 134 | 🐛 23 | 🌐 Python | 📅 2026-08-11
-* [edk2-pytool-library](https://github.com/tianocore/edk2-pytool-library) ⭐ 67 | 🐛 17 | 🌐 Python | 📅 2026-07-27
+* [edk2-pytool-library](https://github.com/tianocore/edk2-pytool-library) ⭐ 67 | 🐛 18 | 🌐 Python | 📅 2026-07-27
 * [EDK II](https://github.com/edk2/edk2)
 * [EDK II Module Write Guide](https://tianocore-docs.github.io/edk2-ModuleWriteGuide)
 
@@ -83,7 +83,7 @@ Bootkits related repositories:
 * [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,637 | 🐛 23 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
 * [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,294 | 🐛 52 | 🌐 Python | 📅 2026-08-24: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
 * [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,521 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,644 | 🐛 34 | 🌐 Rust | 📅 2026-08-24: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,644 | 🐛 33 | 🌐 Rust | 📅 2026-08-24: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
 * [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,343 | 🐛 69 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
 * [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,124 | 🐛 0 | 🌐 C++ | 📅 2026-08-20: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 * [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,076 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
@@ -120,7 +120,7 @@ Bootkits related repositories:
 * [ThinkPwn](https://github.com/Cr4sh/ThinkPwn) ⭐ 707 | 🐛 0 | 🌐 C | 📅 2022-05-13
 * [CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) ⭐ 353 | 🐛 4 | 🌐 C | 📅 2023-09-27
 * [Vulnerability-REsearch](https://github.com/binarly-io/Vulnerability-REsearch) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-08-06: Vulnerabilities found by Binarly-IO, really a lot.
-* [SmmExploit](https://github.com/tandasat/SmmExploit) ⭐ 148 | 🐛 0 | 📅 2021-03-29
+* [SmmExploit](https://github.com/tandasat/SmmExploit) ⭐ 149 | 🐛 0 | 📅 2021-03-29
 * [UsbRt\_ROP](https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022/UsbRt_ROP_PoC) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-03-09
 * [Aptiocalypsis](https://github.com/Cr4sh/Aptiocalypsis) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2016-10-22
 * [vulnerability-disclosures](https://github.com/eset/vulnerability-disclosures) ⭐ 28 | 🐛 0 | 📅 2022-07-13: Vulnerabilities found by ESET, some of the vulnerabilities in the repo related to UEFI.
