@@ -93,10 +93,10 @@
             "archived": false,
             "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-24T08:11:49Z",
+            "last_commit": "2026-08-25T05:44:17Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1644
+            "stars": 1645
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 189661442,
             "language": "Python",
-            "last_commit": "2026-07-27T01:02:57Z",
+            "last_commit": "2026-08-24T22:33:26Z",
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
             "stars": 67
@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7895
+            "stars": 7899
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6072
+            "stars": 6073
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5637
+            "stars": 5638
           }
         },
         {
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-24T01:06:47Z",
+            "last_commit": "2026-08-24T23:57:40Z",
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3294
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-24T08:11:49Z",
+            "last_commit": "2026-08-25T05:44:17Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1644
+            "stars": 1645
           }
         },
         {
@@ -920,8 +920,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "AVAR The Evolution of Threat Actors: Firmware is the Next Frontier",
+          "title": "The Evolution of Threat Actors: Firmware is the Next Frontier",
+          "description": "AVAR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -935,8 +935,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Blackhat Asia The Firmware Supply-Chain Security Is Broken: Can We Fix It?",
+          "title": "The Firmware Supply-Chain Security Is Broken: Can We Fix It?",
+          "description": "Blackhat Asia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,8 +950,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CanSecWest TPM Genie Attacking the Hardware Root of Trust For Less Than $50",
+          "title": "TPM Genie Attacking the Hardware Root of Trust For Less Than $50",
+          "description": "CanSecWest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -965,8 +965,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "DEFCON Safeguarding rootkits: IntelBootGuard",
+          "title": "Safeguarding rootkits: IntelBootGuard",
+          "description": "DEFCON",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -980,8 +980,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "H2HC Data-only Attacks Against UEFI BIOS",
+          "title": "Data-only Attacks Against UEFI BIOS",
+          "description": "H2HC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -995,8 +995,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Offensive Con UEFI Firmware Vulnerabilities: Past, Present and Future",
+          "title": "UEFI Firmware Vulnerabilities: Past, Present and Future",
+          "description": "Offensive Con",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:14.458Z",
+    "last_updated": "2026-08-25T06:22:44.224Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_id": 611109201,
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
