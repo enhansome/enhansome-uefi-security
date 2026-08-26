@@ -15,7 +15,7 @@
             "last_commit": "2024-09-09T16:29:14Z",
             "owner": "hacking-support",
             "repo": "DVUEFI",
-            "stars": 306
+            "stars": 307
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5638
+            "stars": 5641
           }
         },
         {
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-24T23:57:40Z",
+            "last_commit": "2026-08-25T23:56:08Z",
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3294
+            "stars": 3295
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2521
+            "stars": 2522
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-20T00:14:15Z",
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1124
+            "stars": 1125
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1076
+            "stars": 1077
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-06-04T21:27:57Z",
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 920
+            "stars": 921
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-07-29T04:10:44Z",
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 490
+            "stars": 491
           }
         },
         {
@@ -774,7 +774,7 @@
             "last_commit": "2022-06-20T22:05:46Z",
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 841
+            "stars": 843
           }
         },
         {
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:44:15.658Z",
+    "last_updated": "2026-08-26T09:51:10.220Z",
     "original_repository": "river-li/awesome-uefi-security",
     "original_repository_id": 611109201,
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
