@@ -93,10 +93,10 @@
             "archived": false,
             "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:44:17Z",
+            "last_commit": "2026-08-27T16:10:11Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1647
+            "stars": 1646
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-01-01T01:32:30Z",
             "owner": "btbd",
             "repo": "umap",
-            "stars": 603
+            "stars": 602
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2019-08-29T14:16:09Z",
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
-            "stars": 529
+            "stars": 528
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6076
+            "stars": 6077
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5643
+            "stars": 5642
           }
         },
         {
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-26T23:07:42Z",
+            "last_commit": "2026-08-27T19:13:52Z",
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3295
@@ -348,7 +348,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2523
+            "stars": 2522
           }
         },
         {
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 111702516,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:44:17Z",
+            "last_commit": "2026-08-27T16:10:11Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1647
+            "stars": 1646
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-11-30T20:36:37Z",
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 588
+            "stars": 587
           }
         },
         {
@@ -774,7 +774,7 @@
             "last_commit": "2022-06-20T22:05:46Z",
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 843
+            "stars": 842
           }
         },
         {
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:51.619Z",
+    "last_updated": "2026-08-27T19:47:43.536Z",
     "original_repository_info": {
       "archived": false,
       "id": 611109201,
