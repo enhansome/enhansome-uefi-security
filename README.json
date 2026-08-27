@@ -96,7 +96,7 @@
             "last_commit": "2026-08-25T05:44:17Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1645
+            "stars": 1647
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-11T07:55:45Z",
             "owner": "tianocore",
             "repo": "edk2-libc",
-            "stars": 134
+            "stars": 135
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-01-01T01:32:30Z",
             "owner": "btbd",
             "repo": "umap",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2019-08-29T14:16:09Z",
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7899
+            "stars": 7900
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6073
+            "stars": 6076
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5641
+            "stars": 5643
           }
         },
         {
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-25T23:56:08Z",
+            "last_commit": "2026-08-26T23:07:42Z",
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3295
@@ -348,7 +348,7 @@
             "last_commit": "2026-06-16T23:48:44Z",
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2522
+            "stars": 2523
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-25T05:44:17Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1645
+            "stars": 1647
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1343
+            "stars": 1346
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1077
+            "stars": 1078
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-11-30T20:36:37Z",
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 587
+            "stars": 588
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2020-05-22T09:36:27Z",
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 445
+            "stars": 446
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-05-14T21:51:33Z",
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 370
+            "stars": 371
           }
         },
         {
@@ -1013,9 +1013,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:51:10.220Z",
-    "original_repository": "river-li/awesome-uefi-security",
-    "original_repository_id": 611109201,
+    "last_updated": "2026-08-27T12:09:51.619Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 611109201,
+      "language": null,
+      "last_commit": "2025-09-04T16:38:12Z",
+      "owner": "river-li",
+      "repo": "awesome-uefi-security",
+      "stars": 230
+    },
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
     "enhanced_repository_description": null,
