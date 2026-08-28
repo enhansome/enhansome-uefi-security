@@ -16,7 +16,8 @@
             "owner": "hacking-support",
             "repo": "DVUEFI",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sigpwny",
             "repo": "UIUCTF-2022-Public",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "sigpwny",
             "repo": "UIUCTF-2022-Public",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "sigpwny",
             "repo": "UIUCTF-2022-Public",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "yikesoftware",
             "repo": "d3ctf-2022-pwn-d3guard",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         }
       ],
       "title": "CTF-Challenges"
@@ -97,7 +102,8 @@
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1646
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "max-baz",
             "repo": "arch-secure-boot",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "tianocore",
             "repo": "edk2-libc",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "arata-nvm",
             "repo": "mitnal",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "nrdmn",
             "repo": "uefi-paint",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         }
       ],
       "title": "Development :computer:"
@@ -208,7 +220,8 @@
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "btbd",
             "repo": "umap",
             "stars": 602
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "Cr4sh",
             "repo": "PeiBackdoor",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "loneicewolf",
             "repo": "LOJAX",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         }
       ],
       "title": "Bootkits :bomb:"
@@ -288,8 +305,9 @@
             "last_commit": "2026-07-25T20:12:35Z",
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7900
-          }
+            "stars": 7898
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -303,8 +321,9 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6077
-          }
+            "stars": 6079
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -318,8 +337,9 @@
             "last_commit": "2026-07-29T01:21:27Z",
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5642
-          }
+            "stars": 5643
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -333,8 +353,9 @@
             "last_commit": "2026-08-27T19:13:52Z",
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3295
-          }
+            "stars": 3296
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
             "stars": 2522
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1646
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -378,8 +401,9 @@
             "last_commit": "2025-02-06T21:28:26Z",
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1346
-          }
+            "stars": 1348
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -393,8 +417,9 @@
             "last_commit": "2026-08-20T00:14:15Z",
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1125
-          }
+            "stars": 1126
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -408,8 +433,9 @@
             "last_commit": "2025-07-01T22:32:11Z",
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1078
-          }
+            "stars": 1079
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
             "stars": 921
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "SamuelTulach",
             "repo": "efi-memory",
             "stars": 587
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -468,8 +497,9 @@
             "last_commit": "2020-05-22T09:36:27Z",
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 446
-          }
+            "stars": 447
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "DSecurity",
             "repo": "efiSeek",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "linuxboot",
             "repo": "fiano",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "yeggor",
             "repo": "uefi_retool",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "intel",
             "repo": "tsffs",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "Cr4sh",
             "repo": "fwexpl",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "binarly-io",
             "repo": "FwHunt",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "binarly-io",
             "repo": "fwhunt-scan",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "coderobe",
             "repo": "VBiosFinder",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "Sentinel-One",
             "repo": "efi_fuzz",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "tandasat",
             "repo": "UefiVarMonitor",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "tandasat",
             "repo": "kraft_dinner",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "Sentinel-One",
             "repo": "brick",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "assafcarlsbad",
             "repo": "efi_dxe_emulator",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "Cr4sh",
             "repo": "smram_parse",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "yabits",
             "repo": "ebcvm",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "Vector35",
             "repo": "efi-resolver",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "aneesh-neelam",
             "repo": "UEFI-SecureBoot-SignTool",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "awslabs",
             "repo": "python-uefivars",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "zznop",
             "repo": "efi-inspector",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         }
       ],
       "title": "Tools :hammer:"
@@ -774,8 +823,9 @@
             "last_commit": "2022-06-20T22:05:46Z",
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 842
-          }
+            "stars": 841
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -790,7 +840,8 @@
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -805,7 +856,8 @@
             "owner": "Wack0",
             "repo": "CVE-2022-21894",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -820,7 +872,8 @@
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -835,7 +888,8 @@
             "owner": "tandasat",
             "repo": "SmmExploit",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -850,7 +904,8 @@
             "owner": "binarly-io",
             "repo": "Research_Publications",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -865,7 +920,8 @@
             "owner": "Cr4sh",
             "repo": "Aptiocalypsis",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -880,7 +936,8 @@
             "owner": "eset",
             "repo": "vulnerability-disclosures",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -895,7 +952,8 @@
             "owner": "10TG",
             "repo": "vulnerabilities",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
             "owner": "CERTCC",
             "repo": "UEFI-Analysis-Resources",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         }
       ],
       "title": "Vulnerabilities & Exploits :mag_right:"
@@ -931,7 +990,8 @@
             "owner": "binarly-io",
             "repo": "Research_Publications",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1006,8 @@
             "owner": "binarly-io",
             "repo": "Research_Publications",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1022,8 @@
             "owner": "nccgroup",
             "repo": "TPMGenie",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1038,8 @@
             "owner": "flothrone",
             "repo": "bootguard",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1054,8 @@
             "owner": "binarly-io",
             "repo": "Research_Publications",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         },
         {
           "node_type": "item",
@@ -1006,14 +1070,15 @@
             "owner": "binarly-io",
             "repo": "Research_Publications",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
         }
       ],
       "title": "Talks :speaker:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:47:43.536Z",
+    "last_updated": "2026-08-28T20:48:50.598Z",
     "original_repository_info": {
       "archived": false,
       "id": 611109201,
