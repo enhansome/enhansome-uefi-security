@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5643,
+            "stars": 5644,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -615,7 +615,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2025-02-06T21:28:26Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
             "stars": 1348,
@@ -678,7 +678,7 @@
             "open_issues": 3,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1079,
+            "stars": 1080,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -767,7 +767,7 @@
             "open_issues": 1,
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 447,
+            "stars": 448,
             "topics": [
               "acpi",
               "uefi",
@@ -793,7 +793,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -819,7 +819,7 @@
             "open_issues": 60,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "firmware",
               "go",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:45.161Z",
+    "last_updated": "2026-08-29T14:23:23.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
