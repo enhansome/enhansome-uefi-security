@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable UEFI",
+            "homepage": null,
             "id": 767811269,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-09-09T16:29:14Z",
+            "open_issues": 2,
             "owner": "hacking-support",
             "repo": "DVUEFI",
-            "stars": 307
+            "stars": 307,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Challenge source code and deployment scripts for UIUCTF 2022",
+            "homepage": "https://2022.uiuc.tf",
             "id": 522753433,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-09T01:00:14Z",
+            "open_issues": 0,
             "owner": "sigpwny",
             "repo": "UIUCTF-2022-Public",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Challenge source code and deployment scripts for UIUCTF 2022",
+            "homepage": "https://2022.uiuc.tf",
             "id": 522753433,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-09T01:00:14Z",
+            "open_issues": 0,
             "owner": "sigpwny",
             "repo": "UIUCTF-2022-Public",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Challenge source code and deployment scripts for UIUCTF 2022",
+            "homepage": "https://2022.uiuc.tf",
             "id": 522753433,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-09T01:00:14Z",
+            "open_issues": 0,
             "owner": "sigpwny",
             "repo": "UIUCTF-2022-Public",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -74,12 +94,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[D^3CTF 2022] pwn-d3guard attachment and official writeup (English & Chinese)",
+            "homepage": null,
             "id": 466682541,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-09T14:43:44Z",
+            "open_issues": 1,
             "owner": "yikesoftware",
             "repo": "d3ctf-2022-pwn-d3guard",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "d3ctf",
+              "d3guard",
+              "edk2",
+              "pwn",
+              "uefi-pwn",
+              "writeup"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         }
@@ -96,12 +128,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.",
+            "homepage": "https://rust-osdev.com/uefi-book",
             "id": 111702516,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T16:10:11Z",
+            "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1646
+            "stars": 1646,
+            "topics": [
+              "osdev",
+              "rust",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -112,12 +153,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lessons to get to know UEFI programming in Linux with the help of EDKII",
+            "homepage": null,
             "id": 376362454,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-03-05T21:09:24Z",
+            "open_issues": 1,
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "edk2",
+              "edk2-training",
+              "tianocore",
+              "uefi",
+              "uefi-application"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -128,12 +180,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UEFI Secure Boot for Arch Linux + btrfs snapshot recovery",
+            "homepage": null,
             "id": 290049280,
             "language": "Shell",
+            "license": "ISC",
             "last_commit": "2024-07-18T11:21:45Z",
+            "open_issues": 3,
             "owner": "max-baz",
             "repo": "arch-secure-boot",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "archlinux",
+              "btrfs",
+              "btrfs-snapshots",
+              "secure-boot",
+              "snapper",
+              "uefi",
+              "uefi-boot"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -144,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of libc to EDK II with applications that depend on libc",
+            "homepage": null,
             "id": 184125224,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T07:55:45Z",
+            "open_issues": 23,
             "owner": "tianocore",
             "repo": "edk2-libc",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -160,12 +230,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library package that supports UEFI development",
+            "homepage": null,
             "id": 189661442,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T22:33:26Z",
+            "open_issues": 11,
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "edk2",
+              "python",
+              "pytools"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -176,12 +255,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twitter client for UEFI",
+            "homepage": null,
             "id": 453031592,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-01-31T03:20:02Z",
+            "open_issues": 1,
             "owner": "arata-nvm",
             "repo": "mitnal",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "edk2",
+              "twitter-client",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -192,12 +280,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UEFI-bootable touch paint app",
+            "homepage": null,
             "id": 200303121,
             "language": "Zig",
+            "license": null,
             "last_commit": "2019-09-20T16:45:25Z",
+            "open_issues": 0,
             "owner": "nrdmn",
             "repo": "uefi-paint",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "uefi",
+              "zig"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         }
@@ -214,12 +310,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "First open source and publicly available System Management Mode backdoor for UEFI based platforms. Good as general purpose playground for various SMM experiments.",
+            "homepage": null,
             "id": 38600240,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-09T20:38:16Z",
+            "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 633
+            "stars": 633,
+            "topics": [
+              "backdoor",
+              "boot",
+              "firmware",
+              "intel",
+              "malware",
+              "smm",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -230,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UEFI bootkit for driver manual mapping",
+            "homepage": null,
             "id": 256274514,
             "language": "C",
+            "license": null,
             "last_commit": "2024-01-01T01:32:30Z",
+            "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 602
+            "stars": 602,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -246,12 +360,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small bootkit which does not rely on x64 assembly.",
+            "homepage": null,
             "id": 72712725,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2019-08-29T14:16:09Z",
+            "open_issues": 0,
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "assembly",
+              "booitkit",
+              "driver",
+              "efi-application",
+              "efi-runtime-driver",
+              "uefi",
+              "uefi-bootkit"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -262,12 +389,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PEI stage backdoor for UEFI compatible firmware",
+            "homepage": null,
             "id": 66751159,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-01T18:02:28Z",
+            "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "PeiBackdoor",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "backdoor",
+              "boot",
+              "firmware",
+              "intel",
+              "malware",
+              "pei",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -278,12 +418,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LOJAX ROOTKIT (UEFI) +PDF Included[x]",
+            "homepage": null,
             "id": 323072059,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2023-03-09T14:57:53Z",
+            "open_issues": 1,
             "owner": "loneicewolf",
             "repo": "LOJAX",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "bootkit",
+              "lojax",
+              "malware",
+              "rootkit",
+              "uefi",
+              "uefi-rootkit"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         }
@@ -300,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Direct Memory Access (DMA) Attack Software",
+            "homepage": null,
             "id": 64324413,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-25T20:12:35Z",
+            "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7898
+            "stars": 7899,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -316,12 +473,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A True Instrumentable Binary Emulation Framework",
+            "homepage": "https://qiling.io",
             "id": 203799854,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-22T14:09:44Z",
+            "open_issues": 122,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6079
+            "stars": 6079,
+            "topics": [
+              "analysis",
+              "binary",
+              "cross-architecture",
+              "emulator",
+              "framework",
+              "malware",
+              "qiling",
+              "reverse-engineering",
+              "uefi",
+              "unicorn-emulator",
+              "unicorn-engine"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -332,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UEFI firmware image viewer and editor",
+            "homepage": null,
             "id": 13405986,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-29T01:21:27Z",
+            "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5643
+            "stars": 5643,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -348,12 +527,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Platform Security Assessment Framework",
+            "homepage": null,
             "id": 17494082,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T19:13:52Z",
+            "open_issues": 44,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3296
+            "stars": 3296,
+            "topics": [
+              "firmware",
+              "firmware-security",
+              "firmware-tools",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -364,12 +554,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disable PatchGuard and Driver Signature Enforcement at boot time",
+            "homepage": null,
             "id": 177653781,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-16T23:48:44Z",
+            "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2522
+            "stars": 2522,
+            "topics": [
+              "bootkit",
+              "driver",
+              "efi",
+              "kernel",
+              "patchguard",
+              "signing",
+              "uefi",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -380,12 +584,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.",
+            "homepage": "https://rust-osdev.com/uefi-book",
             "id": 111702516,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T16:10:11Z",
+            "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1646
+            "stars": 1646,
+            "topics": [
+              "osdev",
+              "rust",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -396,12 +609,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to unpack installers created by Inno Setup",
+            "homepage": "https://constexpr.org/innoextract/",
             "id": 3588683,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-06T21:28:26Z",
+            "open_issues": 71,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1348
+            "stars": 1348,
+            "topics": [
+              "boost",
+              "c-plus-plus",
+              "cmake",
+              "inno-setup",
+              "liblzma",
+              "unpacker",
+              "zlib"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -412,12 +638,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IDA plugin and loader for UEFI firmware analysis and reverse engineering automation",
+            "homepage": null,
             "id": 276023403,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T00:14:15Z",
+            "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1126
+            "stars": 1126,
+            "topics": [
+              "efi-guid",
+              "efi-protocols",
+              "firmware",
+              "ida-loader",
+              "ida-plugin",
+              "ida-pro",
+              "reverse-engineering",
+              "uefi",
+              "uefi-firmware-analysis"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -428,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of various BIOS/UEFI-related utilities which aid in research and/or modding purposes.",
+            "homepage": null,
             "id": 146931530,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-01T22:32:11Z",
+            "open_issues": 3,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1079
+            "stars": 1079,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -444,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc",
+            "homepage": null,
             "id": 16303018,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-04T21:27:57Z",
+            "open_issues": 12,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 921
+            "stars": 921,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -460,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PoC EFI runtime driver for memory r/w & kdmapper fork",
+            "homepage": null,
             "id": 255422006,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-11-30T20:36:37Z",
+            "open_issues": 8,
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 587
+            "stars": 587,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -476,12 +732,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra utilities for analyzing PC firmware",
+            "homepage": null,
             "id": 188863427,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T04:10:44Z",
+            "open_issues": 11,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 491
+            "stars": 491,
+            "topics": [
+              "firmware",
+              "ghidra",
+              "reverse-engineering",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -492,12 +758,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disables the Windows Platform Binary Table (WPBT) in your UEFI firmware.",
+            "homepage": null,
             "id": 258087333,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-05-22T09:36:27Z",
+            "open_issues": 1,
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 447
+            "stars": 447,
+            "topics": [
+              "acpi",
+              "uefi",
+              "uefi-application",
+              "wpbt"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -508,12 +784,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra analyzer for UEFI firmware.",
+            "homepage": null,
             "id": 277093823,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-02T21:49:20Z",
+            "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 403
+            "stars": 404,
+            "topics": [
+              "firmware",
+              "ghidra-plugin",
+              "reverse-engineering",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -524,12 +810,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go-based tools for modifying UEFI firmware",
+            "homepage": null,
             "id": 122654287,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-14T21:51:33Z",
+            "open_issues": 60,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 371
+            "stars": 371,
+            "topics": [
+              "firmware",
+              "go",
+              "hacktoberfest",
+              "uefi",
+              "uefi-utils"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -540,12 +837,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tool for UEFI firmware reverse engineering",
+            "homepage": null,
             "id": 157477242,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-28T22:50:41Z",
+            "open_issues": 0,
             "owner": "yeggor",
             "repo": "uefi_retool",
-            "stars": 368
+            "stars": 368,
+            "topics": [
+              "firmware",
+              "firmware-tools",
+              "ida-plugin",
+              "idapython",
+              "reverse-engineering",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -556,12 +865,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS",
+            "homepage": "https://intel.github.io/tsffs/",
             "id": 690799710,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T06:55:30Z",
+            "open_issues": 32,
             "owner": "intel",
             "repo": "tsffs",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "fuzzing",
+              "rust",
+              "security",
+              "simics"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -572,12 +891,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PC firmware exploitation tool and library",
+            "homepage": null,
             "id": 52451769,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-13T16:27:41Z",
+            "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "fwexpl",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "exploit",
+              "firmware",
+              "framework",
+              "hvci",
+              "intel",
+              "kernel",
+              "lenovo",
+              "smm",
+              "uefi",
+              "vbs",
+              "vulnerability",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -588,12 +925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Binarly Firmware Hunt (FwHunt) rule format was designed to scan for known vulnerabilities in UEFI firmware.",
+            "homepage": null,
             "id": 433589415,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-03-12T18:13:50Z",
+            "open_issues": 1,
             "owner": "binarly-io",
             "repo": "FwHunt",
-            "stars": 248
+            "stars": 248,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -604,12 +946,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for analyzing UEFI firmware and checking UEFI modules with FwHunt rules",
+            "homepage": null,
             "id": 268312085,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-02T18:17:19Z",
+            "open_issues": 0,
             "owner": "binarly-io",
             "repo": "fwhunt-scan",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "efi-guid",
+              "efi-protocols",
+              "radare2",
+              "reverse-engineering",
+              "uefi",
+              "uefi-firmware",
+              "uefi-firmware-analysis"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -620,12 +975,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract embedded VBIOS from (almost) any BIOS Update. the hail-mary way",
+            "homepage": null,
             "id": 115261003,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2023-11-05T02:03:34Z",
+            "open_issues": 30,
             "owner": "coderobe",
             "repo": "VBiosFinder",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "bios",
+              "gpu",
+              "hacktoberfest",
+              "hardware",
+              "linux",
+              "pci",
+              "pci-passthrough",
+              "uefi",
+              "vbios"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -636,12 +1006,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 299978550,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-02T18:24:14Z",
+            "open_issues": 12,
             "owner": "Sentinel-One",
             "repo": "efi_fuzz",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -652,12 +1027,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The runtime DXE driver monitoring access to the UEFI variables by hooking the runtime service table.",
+            "homepage": null,
             "id": 259111829,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2020-10-09T04:42:45Z",
+            "open_issues": 0,
             "owner": "tandasat",
             "repo": "UefiVarMonitor",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "dxe-driver",
+              "rust",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -668,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to dump UEFI runtime drivers implementing runtime services for Windows",
+            "homepage": "https://standa-note.blogspot.com/2020/12/experiment-in-extracting-runtime.html",
             "id": 323376883,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2020-12-24T17:06:07Z",
+            "open_issues": 0,
             "owner": "tandasat",
             "repo": "kraft_dinner",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -684,12 +1073,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 374822898,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-18T14:35:08Z",
+            "open_issues": 3,
             "owner": "Sentinel-One",
             "repo": "brick",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -700,12 +1094,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EFI DXE Emulator and Interactive Debugger",
+            "homepage": null,
             "id": 240052733,
             "language": "C",
+            "license": null,
             "last_commit": "2020-04-29T14:55:15Z",
+            "open_issues": 3,
             "owner": "assafcarlsbad",
             "repo": "efi_dxe_emulator",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "debugger",
+              "dxe-driver",
+              "dynamic-analysis",
+              "reverse-engineering",
+              "uefi",
+              "unicorn-emulator"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -716,12 +1122,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "System Management RAM analysis tool",
+            "homepage": null,
             "id": 71626933,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-09T15:44:44Z",
+            "open_issues": 2,
             "owner": "Cr4sh",
             "repo": "smram_parse",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "analysis",
+              "dfir",
+              "firmware",
+              "forensics",
+              "investigation",
+              "reversing",
+              "security",
+              "smm",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -732,12 +1153,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EFI Byte Code Virtual Machine in userspace",
+            "homepage": null,
             "id": 151960815,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-01-29T05:35:17Z",
+            "open_issues": 0,
             "owner": "yabits",
             "repo": "ebcvm",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "bytecode",
+              "ebc",
+              "uefi",
+              "virtual-machine",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -748,12 +1180,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Binary Ninja plugin that automatically resolves type information for EFI protocol usage.",
+            "homepage": null,
             "id": 653873241,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-25T13:08:38Z",
+            "open_issues": 9,
             "owner": "Vector35",
             "repo": "efi-resolver",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -764,12 +1201,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script to sign external Linux kernel modules for UEFI Secure Boot. ",
+            "homepage": null,
             "id": 89032180,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2019-10-24T15:12:24Z",
+            "open_issues": 2,
             "owner": "aneesh-neelam",
             "repo": "UEFI-SecureBoot-SignTool",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "linux-kernel",
+              "linux-kernel-module",
+              "secure-boot",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -780,12 +1227,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package and helper tool to analyze, convert and modify UEFI variable stores.",
+            "homepage": null,
             "id": 394762524,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-13T14:25:10Z",
+            "open_issues": 3,
             "owner": "awslabs",
             "repo": "python-uefivars",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "aws",
+              "efi",
+              "efivarfs",
+              "efivars",
+              "python",
+              "uefi",
+              "uefivars"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -796,12 +1256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binary Ninja plugin for inspecting UEFI firmware images",
+            "homepage": null,
             "id": 764830074,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-28T20:42:44Z",
+            "open_issues": 0,
             "owner": "zznop",
             "repo": "efi-inspector",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         }
@@ -818,12 +1283,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot",
+            "homepage": null,
             "id": 172407982,
             "language": null,
+            "license": null,
             "last_commit": "2022-06-20T22:05:46Z",
+            "open_issues": 8,
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 841
+            "stars": 841,
+            "topics": [
+              "bootable-usb",
+              "gpt",
+              "grub2",
+              "iso",
+              "liveusb",
+              "mbr",
+              "multiboot",
+              "secureboot",
+              "uefi",
+              "uefi-boot",
+              "uefi-secureboot"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -834,12 +1316,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Started as arbitrary System Management Mode code execution exploit for Lenovo ThinkPad model line, ended as exploit for industry-wide 0day vulnerability in machines of many vendors",
+            "homepage": null,
             "id": 62154566,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-13T16:23:34Z",
+            "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 707
+            "stars": 707,
+            "topics": [
+              "0day",
+              "exploit",
+              "firmware",
+              "intel",
+              "smm",
+              "uefi",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -850,12 +1345,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability",
+            "homepage": null,
             "id": 523015625,
             "language": "C",
+            "license": "Unlicense",
             "last_commit": "2023-09-27T06:44:27Z",
+            "open_issues": 4,
             "owner": "Wack0",
             "repo": "CVE-2022-21894",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "cve-2022-21894",
+              "cve-2023-24932",
+              "poc",
+              "secure-boot",
+              "uefi",
+              "vulnerability",
+              "windows-boot"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -866,12 +1374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binarly Vulnerability Research Advisories",
+            "homepage": null,
             "id": 386091851,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T12:47:34Z",
+            "open_issues": 1,
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -882,12 +1395,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303.",
+            "homepage": "https://standa-note.blogspot.com/2021/03/debugging-system-with-dci-and-windbg.html",
             "id": 325836310,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-03-29T12:33:38Z",
+            "open_issues": 0,
             "owner": "tandasat",
             "repo": "SmmExploit",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "smm",
+              "uefi",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -898,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313216202,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-09T14:39:51Z",
+            "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -914,12 +1441,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arbitrary SMM code execution exploit for industry-wide 0day vulnerability in AMI Aptio based firmwares",
+            "homepage": null,
             "id": 71630197,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2016-10-22T17:27:11Z",
+            "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "Aptiocalypsis",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "0day",
+              "ami",
+              "exploit",
+              "firmware",
+              "intel",
+              "smm",
+              "uefi",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -930,12 +1471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of vulnerabilities disclosed by ESET",
+            "homepage": null,
             "id": 276107160,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-13T20:00:01Z",
+            "open_issues": 0,
             "owner": "eset",
             "repo": "vulnerability-disclosures",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -946,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 533667047,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-15T12:10:17Z",
+            "open_issues": 0,
             "owner": "10TG",
             "repo": "vulnerabilities",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -962,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Documentation, examples, and other resources regarding analyzing EDK2 based UEFI firmware",
+            "homepage": null,
             "id": 424674388,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-11-04T17:11:17Z",
+            "open_issues": 0,
             "owner": "CERTCC",
             "repo": "UEFI-Analysis-Resources",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         }
@@ -984,12 +1540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313216202,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-09T14:39:51Z",
+            "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -1000,12 +1561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313216202,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-09T14:39:51Z",
+            "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -1016,12 +1582,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TPM Genie is an I2C bus interposer for discrete Trusted Platform Modules",
+            "homepage": null,
             "id": 124109856,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-01-04T15:49:11Z",
+            "open_issues": 4,
             "owner": "nccgroup",
             "repo": "TPMGenie",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "arduino",
+              "hardware",
+              "interposer",
+              "raspberry-pi",
+              "security",
+              "teensy",
+              "tpm",
+              "trusted-platform-module"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -1032,12 +1612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 84607214,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-03T11:21:52Z",
+            "open_issues": 0,
             "owner": "flothrone",
             "repo": "bootguard",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -1048,12 +1633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313216202,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-09T14:39:51Z",
+            "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -1064,12 +1654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313216202,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-09T14:39:51Z",
+            "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         }
@@ -1078,15 +1673,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:48:50.598Z",
+    "last_updated": "2026-08-29T04:49:45.161Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👓A collection of papers/tools/exploits for UEFI security.",
+      "homepage": null,
       "id": 611109201,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-09-04T16:38:12Z",
+      "open_issues": 0,
       "owner": "river-li",
       "repo": "awesome-uefi-security",
-      "stars": 230
+      "stars": 230,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bios",
+        "collection",
+        "exploit",
+        "firmware",
+        "security",
+        "uefi"
+      ]
     },
     "original_repository_sha": "970e6c0de787a4cffa41e6d8b14f024526ccdd33",
     "enhanced_repository": "enhansome/enhansome-uefi-security",
