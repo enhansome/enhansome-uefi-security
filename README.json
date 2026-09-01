@@ -100,7 +100,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2022-03-09T14:43:44Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "yikesoftware",
             "repo": "d3ctf-2022-pwn-d3guard",
             "stars": 14,
@@ -137,7 +137,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1648,
+            "stars": 1649,
             "topics": [
               "osdev",
               "rust",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7902,
+            "stars": 7903,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -478,11 +478,11 @@
             "id": 203799854,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-07-22T14:09:44Z",
-            "open_issues": 122,
+            "last_commit": "2026-09-01T06:55:00Z",
+            "open_issues": 121,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6079,
+            "stars": 6081,
             "topics": [
               "analysis",
               "binary",
@@ -533,7 +533,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-31T01:07:34Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3297,
@@ -593,7 +593,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1648,
+            "stars": 1649,
             "topics": [
               "osdev",
               "rust",
@@ -737,11 +737,11 @@
             "id": 188863427,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-29T04:10:44Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-01T02:39:24Z",
+            "open_issues": 9,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 491,
+            "stars": 492,
             "topics": [
               "firmware",
               "ghidra",
@@ -955,7 +955,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "fwhunt-scan",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:00:54.221Z",
+    "last_updated": "2026-09-01T14:05:53.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
