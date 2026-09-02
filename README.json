@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "hacking-support",
             "repo": "DVUEFI",
-            "stars": 307,
+            "stars": 308,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -427,7 +427,7 @@
             "open_issues": 1,
             "owner": "loneicewolf",
             "repo": "LOJAX",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "bootkit",
               "lojax",
@@ -482,7 +482,7 @@
             "open_issues": 121,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6081,
+            "stars": 6083,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5649,
+            "stars": 5650,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,11 +532,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-31T01:07:34Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-02T01:06:12Z",
+            "open_issues": 52,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3297,
+            "stars": 3298,
             "topics": [
               "firmware",
               "firmware-security",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1349,
+            "stars": 1352,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1080,
+            "stars": 1081,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -819,7 +819,7 @@
             "open_issues": 60,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 372,
+            "stars": 373,
             "topics": [
               "firmware",
               "go",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:05:53.822Z",
+    "last_updated": "2026-09-02T13:32:14.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
