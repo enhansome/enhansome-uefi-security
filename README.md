@@ -20,7 +20,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 * [UIUCTF-2022 SMM Cow Say 1](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_1) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
 * [UIUCTF-2022 SMM Cow Say 2](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_2) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
 * [UIUCTF-2022 SMM Cow Say 3](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_3) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
-* [D^3CTF-2022-pwn-d3guard](https://github.com/yikesoftware/d3ctf-2022-pwn-d3guard) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-03-09
+* [D^3CTF-2022-pwn-d3guard](https://github.com/yikesoftware/d3ctf-2022-pwn-d3guard) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2022-03-09
 * [corCTF 2023 smm-diary](https://2023.cor.team/challs)
 * [Dubhe CTF 2024 ToySMM](https://dubhectf2024.xctf.org.cn/)
 
@@ -35,11 +35,11 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## Development :computer:
 
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,649 | 🐛 32 | 🌐 Rust | 📅 2026-08-31
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,649 | 🐛 30 | 🌐 Rust | 📅 2026-09-03
 * [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons) ⭐ 367 | 🐛 1 | 🌐 C | 📅 2024-03-05
 * [arch-secure-boot](https://github.com/maximbaz/arch-secure-boot) ⭐ 146 | 🐛 3 | 🌐 Shell | 📅 2024-07-18
 * [edk2-libc](https://github.com/tianocore/edk2-libc) ⭐ 135 | 🐛 23 | 🌐 Python | 📅 2026-08-11
-* [edk2-pytool-library](https://github.com/tianocore/edk2-pytool-library) ⭐ 67 | 🐛 15 | 🌐 Python | 📅 2026-08-31
+* [edk2-pytool-library](https://github.com/tianocore/edk2-pytool-library) ⭐ 67 | 🐛 16 | 🌐 Python | 📅 2026-08-31
 * [EDK II](https://github.com/edk2/edk2)
 * [EDK II Module Write Guide](https://tianocore-docs.github.io/edk2-ModuleWriteGuide)
 
@@ -78,23 +78,23 @@ Bootkits related repositories:
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,903 | 🐛 9 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
-* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,083 | 🐛 121 | 🌐 Python | 📅 2026-09-01: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,650 | 🐛 23 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
-* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,298 | 🐛 52 | 🌐 Python | 📅 2026-09-02: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,907 | 🐛 9 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,087 | 🐛 121 | 🌐 Python | 📅 2026-09-01: Qiling has an EFI mode, which can partially emulate UEFI binary files.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,653 | 🐛 23 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
+* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,298 | 🐛 50 | 🌐 Python | 📅 2026-09-02: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
 * [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,522 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,649 | 🐛 32 | 🌐 Rust | 📅 2026-08-31: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
-* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,352 | 🐛 72 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,649 | 🐛 30 | 🌐 Rust | 📅 2026-09-03: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
+* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,354 | 🐛 72 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
 * [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,126 | 🐛 0 | 🌐 C++ | 📅 2026-08-20: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
-* [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,081 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
+* [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,082 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
 * [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 920 | 🐛 12 | 🌐 Python | 📅 2026-06-04: Library for parsing UEFI firmware images.
 * [efi-memory](https://github.com/SamuelTulach/efi-memory) ⚠️ Archived
-* [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 492 | 🐛 9 | 🌐 Java | 📅 2026-09-01
+* [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 493 | 🐛 9 | 🌐 Java | 📅 2026-09-01
 * [dropWPBT](https://github.com/Jamesits/dropWPBT) ⭐ 448 | 🐛 1 | 🌐 C | 📅 2020-05-22
-* [efiSeek](https://github.com/DSecurity/efiSeek) ⭐ 405 | 🐛 12 | 🌐 Java | 📅 2024-06-02: A Ghidra plugin for UEFI binaries analyzing.
+* [efiSeek](https://github.com/DSecurity/efiSeek) ⭐ 406 | 🐛 12 | 🌐 Java | 📅 2024-06-02: A Ghidra plugin for UEFI binaries analyzing.
 * [fiano](https://github.com/linuxboot/fiano) ⭐ 373 | 🐛 60 | 🌐 Go | 📅 2026-05-14
 * [uefi-retool](https://github.com/yeggor/uefi_retool) ⚠️ Archived
-* [tsffs](https://github.com/intel/tsffs) ⭐ 331 | 🐛 33 | 🌐 Rust | 📅 2026-08-31: A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
+* [tsffs](https://github.com/intel/tsffs) ⭐ 331 | 🐛 33 | 🌐 Rust | 📅 2026-09-03: A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
 * [fwexpl](https://github.com/Cr4sh/fwexpl) ⭐ 263 | 🐛 0 | 🌐 C++ | 📅 2022-05-13
 * [FwHunt](https://github.com/binarly-io/fwhunt) ⭐ 248 | 🐛 1 | 📅 2024-03-12
 * [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan) ⭐ 244 | 🐛 0 | 🌐 Python | 📅 2025-05-02
@@ -116,12 +116,12 @@ Bootkits related repositories:
 
 ## Vulnerabilities & Exploits :mag\_right:
 
-* [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) ⭐ 841 | 🐛 8 | 📅 2022-06-20
+* [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) ⭐ 842 | 🐛 8 | 📅 2022-06-20
 * [ThinkPwn](https://github.com/Cr4sh/ThinkPwn) ⭐ 707 | 🐛 0 | 🌐 C | 📅 2022-05-13
 * [CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) ⭐ 353 | 🐛 4 | 🌐 C | 📅 2023-09-27
-* [Vulnerability-REsearch](https://github.com/binarly-io/Vulnerability-REsearch) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-08-06: Vulnerabilities found by Binarly-IO, really a lot.
+* [Vulnerability-REsearch](https://github.com/binarly-io/Vulnerability-REsearch) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-09-03: Vulnerabilities found by Binarly-IO, really a lot.
 * [SmmExploit](https://github.com/tandasat/SmmExploit) ⭐ 149 | 🐛 0 | 📅 2021-03-29
-* [UsbRt\_ROP](https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022/UsbRt_ROP_PoC) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-03-09
+* [UsbRt\_ROP](https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022/UsbRt_ROP_PoC) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-09-03
 * [Aptiocalypsis](https://github.com/Cr4sh/Aptiocalypsis) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2016-10-22
 * [vulnerability-disclosures](https://github.com/eset/vulnerability-disclosures) ⭐ 28 | 🐛 0 | 📅 2022-07-13: Vulnerabilities found by ESET, some of the vulnerabilities in the repo related to UEFI.
 * [vulnerabilities](https://github.com/10TG/vulnerabilities) ⭐ 8 | 🐛 0 | 📅 2023-05-15: Vulnerabilities found by 10TG, some of the vulnerabilities related to UEFI.
@@ -140,9 +140,9 @@ Bootkits related repositories:
 | 2024 | Blackhat USA ARSENAL | [Damn Vulnerable UEFI (DVUEFI): An Exploitation Toolkit and Learning Platform for Unveiling and Fixing UEFI Firmware Vulnerabilities](https://www.blackhat.com/us-24/arsenal/schedule/index.html#damn-vulnerable-uefi-dvuefi-an-exploitation-toolkit-and-learning-platform-for-unveiling-and-fixing-uefi-firmware-vulnerabilities-39058) |
 | 2023 |    Blackhat Europe   |                                                                              [LogoFAIL: Security implications of image parsing during system boot](https://i.blackhat.com/EU-23/Presentations/EU-23-Pagani-LogoFAIL-Security-Implications-of-Image_REV2.pdf)                                                                             |
 | 2023 |     Blackhat Asia    |                                                                        [The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust](https://www.blackhat.com/asia-23/briefings/schedule/#the-various-shades-of-supply-chain-sbom-n-days-and-zero-trust-31253)                                                                       |
-| 2021 |         AVAR         |                                                                           [The Evolution of Threat Actors: Firmware is the Next Frontier](https://github.com/binarly-io/Research_Publications/tree/main/AVAR_2021) ⭐ 134 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-09                                                                           |
+| 2021 |         AVAR         |                                                                           [The Evolution of Threat Actors: Firmware is the Next Frontier](https://github.com/binarly-io/Research_Publications/tree/main/AVAR_2021) ⭐ 134 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-03                                                                           |
 | 2022 |     Blackhat USA     |                                                                [Breaking Firmware Trust From Pre-EFI: Exploiting Early Boot Phases](https://www.blackhat.com/us-22/briefings/schedule/index.html#breaking-firmware-trust-from-pre-efi-exploiting-early-boot-phases-27229)                                                                |
-| 2022 |     Blackhat Asia    |                                                                           [The Firmware Supply-Chain Security Is Broken: Can We Fix It?](https://github.com/binarly-io/Research_Publications/tree/main/BHASIA_2022) ⭐ 134 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-09                                                                          |
+| 2022 |     Blackhat Asia    |                                                                           [The Firmware Supply-Chain Security Is Broken: Can We Fix It?](https://github.com/binarly-io/Research_Publications/tree/main/BHASIA_2022) ⭐ 134 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-03                                                                          |
 | 2021 |     Blackhat USA     |                                                                                                             [Safeguarding UEFI Ecosystem: Firmware Supply Chain is Hard(coded)](https://www.youtube.com/watch?v=WMMdfnyiSd8)                                                                                                             |
 | 2021 |     Blackhat USA     |                                                                                                                                [Breaking Secure Bootloaders](https://www.youtube.com/watch?v=XvGcQgx9Jg8)                                                                                                                                |
 | 2020 |    Blackhat Europe   |                                                                                               [efiXplorer: Hunting for UEFI Firmware Vulnerabilities at Scale with Automated Static Analysis](https://www.youtube.com/watch?v=Sa779TGX3wY)                                                                                               |
@@ -190,8 +190,8 @@ Bootkits related repositories:
 | 2020 |        DEFCON        |                                                                                                                                [OuterHaven UEFI Memory Space](https://www.youtube.com/watch?v=cTKrVGVFp5k)                                                                                                                               |
 | 2008 |        DEFCON        |                                            [Bypassing pre-boot authentication passwords by instrumenting the BIOS keyboard buffer(pratical low level attacks against x86 authentication software)](https://defcon.org/images/defcon-16/dc16-presentations/brossard/defcon-16-brossard-wp.pdf)                                            |
 | 2007 |        DEFCON        |                                                                                                                         [ Hacking the Extensible Firmware Interface](https://www.youtube.com/watch?v=g-n42Q-Pxsg)                                                                                                                        |
-| 2022 |         H2HC         |                                                                                        [Data-only Attacks Against UEFI BIOS](https://github.com/binarly-io/Research_Publications/tree/main/H2HC_2022) ⭐ 134 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-09                                                                                        |
-| 2022 |     Offensive Con    |                                                                          [UEFI Firmware Vulnerabilities: Past, Present and Future](https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022) ⭐ 134 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-09                                                                          |
+| 2022 |         H2HC         |                                                                                        [Data-only Attacks Against UEFI BIOS](https://github.com/binarly-io/Research_Publications/tree/main/H2HC_2022) ⭐ 134 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-03                                                                                        |
+| 2022 |     Offensive Con    |                                                                          [UEFI Firmware Vulnerabilities: Past, Present and Future](https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022) ⭐ 134 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-03                                                                          |
 | 2017 |         REcon        |                                                                                              [BARing the System New vulnerabilities in Coreboot & UEFI based systems](http://www.c7zero.info/stuff/REConBrussels2017_BARing_the_system.pdf)                                                                                              |
 
 ## Blogs :newspaper:
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
