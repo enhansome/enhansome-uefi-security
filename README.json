@@ -133,8 +133,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T05:40:03Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-04T08:47:27Z",
+            "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1649,
@@ -235,7 +235,7 @@
             "id": 189661442,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T15:24:10Z",
+            "last_commit": "2026-09-03T14:25:58Z",
             "open_issues": 16,
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7907,
+            "stars": 7908,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 121,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6087,
+            "stars": 6088,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5653,
+            "stars": 5655,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2522,
+            "stars": 2523,
             "topics": [
               "bootkit",
               "driver",
@@ -589,8 +589,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T05:40:03Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-04T08:47:27Z",
+            "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1649,
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1354,
+            "stars": 1355,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -767,7 +767,7 @@
             "open_issues": 1,
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 448,
+            "stars": 447,
             "topics": [
               "acpi",
               "uefi",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:30:13.122Z",
+    "last_updated": "2026-09-04T13:24:28.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
