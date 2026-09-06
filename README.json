@@ -478,8 +478,8 @@
             "id": 203799854,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-05T09:05:09Z",
-            "open_issues": 116,
+            "last_commit": "2026-09-06T09:58:03Z",
+            "open_issues": 110,
             "owner": "qilingframework",
             "repo": "qiling",
             "stars": 6088,
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5656,
+            "stars": 5657,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1355,
+            "stars": 1356,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1126,
+            "stars": 1127,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:35:02.130Z",
+    "last_updated": "2026-09-06T12:49:37.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
