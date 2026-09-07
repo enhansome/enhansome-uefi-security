@@ -133,8 +133,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T08:47:27Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-07T13:10:22Z",
+            "open_issues": 35,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1649,
@@ -162,7 +162,7 @@
             "open_issues": 1,
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "edk2",
               "edk2-training",
@@ -214,8 +214,8 @@
             "id": 184125224,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-11T07:55:45Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-07T07:49:00Z",
+            "open_issues": 22,
             "owner": "tianocore",
             "repo": "edk2-libc",
             "stars": 135,
@@ -235,8 +235,8 @@
             "id": 189661442,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T14:25:58Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-07T01:03:44Z",
+            "open_issues": 17,
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
             "stars": 67,
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7910,
+            "stars": 7912,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -478,11 +478,11 @@
             "id": 203799854,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-06T09:58:03Z",
-            "open_issues": 110,
+            "last_commit": "2026-09-07T12:03:43Z",
+            "open_issues": 109,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6088,
+            "stars": 6089,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5657,
+            "stars": 5658,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -536,7 +536,7 @@
             "open_issues": 50,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3299,
+            "stars": 3300,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2525,
+            "stars": 2526,
             "topics": [
               "bootkit",
               "driver",
@@ -589,8 +589,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T08:47:27Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-07T13:10:22Z",
+            "open_issues": 35,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1649,
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1356,
+            "stars": 1357,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1083,
+            "stars": 1084,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -699,7 +699,7 @@
             "open_issues": 12,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 920,
+            "stars": 922,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "firmware",
               "ghidra",
@@ -1379,7 +1379,7 @@
             "id": 386091851,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T11:43:30Z",
+            "last_commit": "2026-09-07T14:38:43Z",
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:49:37.072Z",
+    "last_updated": "2026-09-07T14:59:52.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
