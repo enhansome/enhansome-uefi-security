@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7912,
+            "stars": 7913,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 109,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6089,
+            "stars": 6090,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5658,
+            "stars": 5661,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -536,7 +536,7 @@
             "open_issues": 50,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3300,
+            "stars": 3298,
             "topics": [
               "firmware",
               "firmware-security",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1357,
+            "stars": 1358,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1127,
+            "stars": 1128,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1084,
+            "stars": 1085,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1292,7 +1292,7 @@
             "open_issues": 8,
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "bootable-usb",
               "gpt",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:59:52.851Z",
+    "last_updated": "2026-09-08T13:29:31.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
