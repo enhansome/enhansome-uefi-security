@@ -134,10 +134,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T13:10:22Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1649,
+            "stars": 1650,
             "topics": [
               "osdev",
               "rust",
@@ -218,7 +218,7 @@
             "open_issues": 22,
             "owner": "tianocore",
             "repo": "edk2-libc",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -264,7 +264,7 @@
             "open_issues": 1,
             "owner": "arata-nvm",
             "repo": "mitnal",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "edk2",
               "twitter-client",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7913,
+            "stars": 7914,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 109,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6090,
+            "stars": 6092,
             "topics": [
               "analysis",
               "binary",
@@ -536,7 +536,7 @@
             "open_issues": 50,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3298,
+            "stars": 3299,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2526,
+            "stars": 2530,
             "topics": [
               "bootkit",
               "driver",
@@ -590,10 +590,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T13:10:22Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1649,
+            "stars": 1650,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1358,
+            "stars": 1359,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1085,
+            "stars": 1086,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -699,7 +699,7 @@
             "open_issues": 12,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 922,
+            "stars": 923,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "firmware",
               "ghidra",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:29:31.582Z",
+    "last_updated": "2026-09-09T13:39:15.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
