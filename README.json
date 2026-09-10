@@ -137,7 +137,7 @@
             "open_issues": 36,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1650,
+            "stars": 1651,
             "topics": [
               "osdev",
               "rust",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7914,
+            "stars": 7915,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 109,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6092,
+            "stars": 6095,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5661,
+            "stars": 5663,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,8 +532,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-02T20:52:25Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-10T01:02:57Z",
+            "open_issues": 51,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3299,
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2530,
+            "stars": 2531,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 36,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1650,
+            "stars": 1651,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1359,
+            "stars": 1361,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:39:15.328Z",
+    "last_updated": "2026-09-10T13:30:31.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
@@ -1685,7 +1685,7 @@
       "open_issues": 0,
       "owner": "river-li",
       "repo": "awesome-uefi-security",
-      "stars": 230,
+      "stars": 231,
       "topics": [
         "awesome",
         "awesome-list",
