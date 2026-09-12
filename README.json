@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7915,
+            "stars": 7914,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5664,
+            "stars": 5666,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,11 +532,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-10T01:02:57Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-12T04:15:27Z",
+            "open_issues": 49,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3299,
+            "stars": 3298,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2532,
+            "stars": 2531,
             "topics": [
               "bootkit",
               "driver",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1362,
+            "stars": 1363,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -720,7 +720,7 @@
             "open_issues": 8,
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 586,
+            "stars": 587,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -900,7 +900,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "fwexpl",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "exploit",
               "firmware",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:28:39.364Z",
+    "last_updated": "2026-09-12T12:48:12.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
