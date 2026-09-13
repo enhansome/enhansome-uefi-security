@@ -162,7 +162,7 @@
             "open_issues": 1,
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "edk2",
               "edk2-training",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7914,
+            "stars": 7913,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -478,11 +478,11 @@
             "id": 203799854,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-07T12:03:43Z",
+            "last_commit": "2026-09-13T12:08:14Z",
             "open_issues": 110,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6096,
+            "stars": 6097,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5666,
+            "stars": 5670,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -536,7 +536,7 @@
             "open_issues": 49,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3298,
+            "stars": 3299,
             "topics": [
               "firmware",
               "firmware-security",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1363,
+            "stars": 1364,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1086,
+            "stars": 1087,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -699,7 +699,7 @@
             "open_issues": 12,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 923,
+            "stars": 924,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:48:12.707Z",
+    "last_updated": "2026-09-13T13:46:15.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
