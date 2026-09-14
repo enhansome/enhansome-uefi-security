@@ -133,8 +133,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T09:44:42Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-14T14:29:07Z",
+            "open_issues": 38,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1651,
@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 602,
+            "stars": 605,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7913,
+            "stars": 7914,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 110,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6097,
+            "stars": 6098,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5670,
+            "stars": 5673,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,11 +532,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-12T04:15:27Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-14T01:07:07Z",
+            "open_issues": 52,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3299,
+            "stars": 3300,
             "topics": [
               "firmware",
               "firmware-security",
@@ -589,8 +589,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T09:44:42Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-14T14:29:07Z",
+            "open_issues": 38,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1651,
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1364,
+            "stars": 1365,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -871,7 +871,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T02:18:32Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 331,
@@ -1325,7 +1325,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "0day",
               "exploit",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:46:15.272Z",
+    "last_updated": "2026-09-14T15:51:10.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
