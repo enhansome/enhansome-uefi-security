@@ -162,7 +162,7 @@
             "open_issues": 1,
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
-            "stars": 369,
+            "stars": 371,
             "topics": [
               "edk2",
               "edk2-training",
@@ -215,7 +215,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T15:41:52Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "tianocore",
             "repo": "edk2-libc",
             "stars": 136,
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7914,
+            "stars": 7915,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 110,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6098,
+            "stars": 6099,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5673,
+            "stars": 5675,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,8 +532,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-14T01:07:07Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-15T00:05:37Z",
+            "open_issues": 48,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3300,
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2531,
+            "stars": 2532,
             "topics": [
               "bootkit",
               "driver",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1365,
+            "stars": 1367,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1128,
+            "stars": 1129,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:51:10.798Z",
+    "last_updated": "2026-09-15T14:17:21.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
@@ -1685,7 +1685,7 @@
       "open_issues": 0,
       "owner": "river-li",
       "repo": "awesome-uefi-security",
-      "stars": 231,
+      "stars": 232,
       "topics": [
         "awesome",
         "awesome-list",
