@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "hacking-support",
             "repo": "DVUEFI",
-            "stars": 308,
+            "stars": 307,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "backdoor",
               "boot",
@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 604,
+            "stars": 603,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -369,7 +369,7 @@
             "open_issues": 0,
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
-            "stars": 527,
+            "stars": 525,
             "topics": [
               "assembly",
               "booitkit",
@@ -398,7 +398,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "PeiBackdoor",
-            "stars": 232,
+            "stars": 231,
             "topics": [
               "backdoor",
               "boot",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7914,
+            "stars": 7919,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5674,
+            "stars": 5677,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,11 +532,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-15T00:05:37Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-17T01:02:51Z",
+            "open_issues": 50,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3300,
+            "stars": 3301,
             "topics": [
               "firmware",
               "firmware-security",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1129,
+            "stars": 1127,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1085,
+            "stars": 1084,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -720,7 +720,7 @@
             "open_issues": 8,
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 586,
+            "stars": 585,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "firmware",
               "ghidra",
@@ -870,8 +870,8 @@
             "id": 690799710,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T02:18:32Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-16T14:12:29Z",
+            "open_issues": 33,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 331,
@@ -1036,7 +1036,7 @@
             "open_issues": 0,
             "owner": "tandasat",
             "repo": "UefiVarMonitor",
-            "stars": 146,
+            "stars": 145,
             "topics": [
               "dxe-driver",
               "rust",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:09:32.609Z",
+    "last_updated": "2026-09-17T14:14:58.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
@@ -1685,7 +1685,7 @@
       "open_issues": 0,
       "owner": "river-li",
       "repo": "awesome-uefi-security",
-      "stars": 232,
+      "stars": 231,
       "topics": [
         "awesome",
         "awesome-list",

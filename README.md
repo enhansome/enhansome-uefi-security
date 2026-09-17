@@ -16,7 +16,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## CTF-Challenges
 
-* [DVUEFI](https://github.com/hacking-support/DVUEFI) ⭐ 308 | 🐛 2 | 🌐 C++ | 📅 2024-09-09
+* [DVUEFI](https://github.com/hacking-support/DVUEFI) ⭐ 307 | 🐛 2 | 🌐 C++ | 📅 2024-09-09
 * [UIUCTF-2022 SMM Cow Say 1](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_1) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
 * [UIUCTF-2022 SMM Cow Say 2](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_2) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
 * [UIUCTF-2022 SMM Cow Say 3](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_3) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
@@ -69,38 +69,38 @@ ATT\&CK [Attack Vector](https://attack.mitre.org/techniques/T1542/003/)
 
 Bootkits related repositories:
 
-* [SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) ⭐ 633 | 🐛 0 | 🌐 C | 📅 2023-10-09
-* [umap](https://github.com/btbd/umap) ⭐ 604 | 🐛 7 | 🌐 C | 📅 2024-01-01
-* [UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) ⭐ 527 | 🐛 0 | 🌐 C | 📅 2019-08-29
-* [PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) ⭐ 232 | 🐛 0 | 🌐 C | 📅 2021-05-01
+* [SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) ⭐ 632 | 🐛 0 | 🌐 C | 📅 2023-10-09
+* [umap](https://github.com/btbd/umap) ⭐ 603 | 🐛 7 | 🌐 C | 📅 2024-01-01
+* [UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) ⭐ 525 | 🐛 0 | 🌐 C | 📅 2019-08-29
+* [PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) ⭐ 231 | 🐛 0 | 🌐 C | 📅 2021-05-01
 * [LoJax](https://github.com/loneicewolf/LOJAX) ⭐ 39 | 🐛 1 | 📅 2023-03-09
 * [bootlicker](https://github.com/realoriginal/bootlicker)
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,914 | 🐛 9 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,919 | 🐛 9 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
 * [qiling](https://github.com/qilingframework/qiling) ⭐ 6,100 | 🐛 110 | 🌐 Python | 📅 2026-09-13: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,674 | 🐛 23 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
-* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,300 | 🐛 48 | 🌐 Python | 📅 2026-09-15: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,677 | 🐛 23 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
+* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,301 | 🐛 50 | 🌐 Python | 📅 2026-09-17: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
 * [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,532 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
 * [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,651 | 🐛 38 | 🌐 Rust | 📅 2026-09-14: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
 * [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,367 | 🐛 72 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
-* [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,129 | 🐛 0 | 🌐 C++ | 📅 2026-08-20: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
-* [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,085 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
+* [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,127 | 🐛 0 | 🌐 C++ | 📅 2026-08-20: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
+* [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,084 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
 * [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 924 | 🐛 12 | 🌐 Python | 📅 2026-06-04: Library for parsing UEFI firmware images.
 * [efi-memory](https://github.com/SamuelTulach/efi-memory) ⚠️ Archived
-* [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 496 | 🐛 9 | 🌐 Java | 📅 2026-09-01
+* [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 497 | 🐛 9 | 🌐 Java | 📅 2026-09-01
 * [dropWPBT](https://github.com/Jamesits/dropWPBT) ⭐ 447 | 🐛 1 | 🌐 C | 📅 2020-05-22
 * [efiSeek](https://github.com/DSecurity/efiSeek) ⭐ 407 | 🐛 12 | 🌐 Java | 📅 2024-06-02: A Ghidra plugin for UEFI binaries analyzing.
 * [fiano](https://github.com/linuxboot/fiano) ⭐ 373 | 🐛 60 | 🌐 Go | 📅 2026-05-14
 * [uefi-retool](https://github.com/yeggor/uefi_retool) ⚠️ Archived
-* [tsffs](https://github.com/intel/tsffs) ⭐ 331 | 🐛 34 | 🌐 Rust | 📅 2026-09-11: A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
+* [tsffs](https://github.com/intel/tsffs) ⭐ 331 | 🐛 33 | 🌐 Rust | 📅 2026-09-16: A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
 * [fwexpl](https://github.com/Cr4sh/fwexpl) ⭐ 264 | 🐛 0 | 🌐 C++ | 📅 2022-05-13
 * [FwHunt](https://github.com/binarly-io/fwhunt) ⭐ 248 | 🐛 1 | 📅 2024-03-12
 * [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2025-05-02
 * [VBiosFinder](https://github.com/coderobe/VBiosFinder) ⭐ 155 | 🐛 30 | 🌐 Ruby | 📅 2023-11-05
 * [efi\_fuzz](https://github.com/Sentinel-One/efi_fuzz) ⚠️ Archived: A coverage-guided emulator-based NVRAM fuzzer for UEFI (based on qiling).
-* [UefiVarMonitor](https://github.com/tandasat/UefiVarMonitor) ⭐ 146 | 🐛 0 | 🌐 C | 📅 2020-10-09
+* [UefiVarMonitor](https://github.com/tandasat/UefiVarMonitor) ⭐ 145 | 🐛 0 | 🌐 C | 📅 2020-10-09
 * [kraft\_dinner](https://github.com/tandasat/kraft_dinner) ⭐ 114 | 🐛 0 | 🌐 C | 📅 2020-12-24
 * [brick](https://github.com/Sentinel-One/brick) ⚠️ Archived: IDA Pro plugin, a static vulnerability scanner, support several types of vulnerabilities.
 * [efi\_dxe\_emulator](https://github.com/assafcarlsbad/efi_dxe_emulator) ⭐ 88 | 🐛 3 | 🌐 C | 📅 2020-04-29: A simple emulator for UEFI DXE files.
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
