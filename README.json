@@ -133,8 +133,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T14:29:07Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-17T16:33:53Z",
+            "open_issues": 37,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1651,
@@ -235,8 +235,8 @@
             "id": 189661442,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T01:03:44Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-17T20:16:08Z",
+            "open_issues": 16,
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
             "stars": 67,
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7919,
+            "stars": 7920,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -479,7 +479,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-13T12:08:14Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "qilingframework",
             "repo": "qiling",
             "stars": 6100,
@@ -536,7 +536,7 @@
             "open_issues": 50,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3301,
+            "stars": 3300,
             "topics": [
               "firmware",
               "firmware-security",
@@ -589,8 +589,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T14:29:07Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-17T16:33:53Z",
+            "open_issues": 37,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1651,
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1084,
+            "stars": 1085,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "firmware",
               "ghidra",
@@ -793,7 +793,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -900,7 +900,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "fwexpl",
-            "stars": 264,
+            "stars": 263,
             "topics": [
               "exploit",
               "firmware",
@@ -1292,7 +1292,7 @@
             "open_issues": 8,
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "bootable-usb",
               "gpt",
@@ -1404,7 +1404,7 @@
             "open_issues": 0,
             "owner": "tandasat",
             "repo": "SmmExploit",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "smm",
               "uefi",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:14:58.641Z",
+    "last_updated": "2026-09-18T13:32:56.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
