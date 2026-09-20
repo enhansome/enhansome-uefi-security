@@ -133,11 +133,11 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T16:33:53Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-20T13:08:44Z",
+            "open_issues": 35,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1652,
+            "stars": 1653,
             "topics": [
               "osdev",
               "rust",
@@ -458,7 +458,7 @@
             "language": "C",
             "license": "AGPL-3.0",
             "last_commit": "2026-07-25T20:12:35Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
             "stars": 7921,
@@ -482,7 +482,7 @@
             "open_issues": 111,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6102,
+            "stars": 6103,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5679,
+            "stars": 5683,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -533,10 +533,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-18T23:56:47Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3300,
+            "stars": 3302,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2534,
+            "stars": 2535,
             "topics": [
               "bootkit",
               "driver",
@@ -589,11 +589,11 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T16:33:53Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-20T13:08:44Z",
+            "open_issues": 35,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1652,
+            "stars": 1653,
             "topics": [
               "osdev",
               "rust",
@@ -699,7 +699,7 @@
             "open_issues": 12,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 924,
+            "stars": 925,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 499,
+            "stars": 500,
             "topics": [
               "firmware",
               "ghidra",
@@ -1292,7 +1292,7 @@
             "open_issues": 8,
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 844,
+            "stars": 845,
             "topics": [
               "bootable-usb",
               "gpt",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:02:56.064Z",
+    "last_updated": "2026-09-20T13:33:03.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
