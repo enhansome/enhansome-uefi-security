@@ -16,7 +16,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## CTF-Challenges
 
-* [DVUEFI](https://github.com/hacking-support/DVUEFI) ⭐ 307 | 🐛 2 | 🌐 C++ | 📅 2024-09-09
+* [DVUEFI](https://github.com/hacking-support/DVUEFI) ⭐ 308 | 🐛 2 | 🌐 C++ | 📅 2024-09-09
 * [UIUCTF-2022 SMM Cow Say 1](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_1) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
 * [UIUCTF-2022 SMM Cow Say 2](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_2) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
 * [UIUCTF-2022 SMM Cow Say 3](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_3) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
@@ -35,7 +35,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## Development :computer:
 
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,653 | 🐛 32 | 🌐 Rust | 📅 2026-09-21
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,654 | 🐛 32 | 🌐 Rust | 📅 2026-09-22
 * [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons) ⭐ 373 | 🐛 1 | 🌐 C | 📅 2024-03-05
 * [arch-secure-boot](https://github.com/maximbaz/arch-secure-boot) ⭐ 146 | 🐛 3 | 🌐 Shell | 📅 2024-07-18
 * [edk2-libc](https://github.com/tianocore/edk2-libc) ⭐ 136 | 🐛 19 | 🌐 Python | 📅 2026-09-10
@@ -69,7 +69,7 @@ ATT\&CK [Attack Vector](https://attack.mitre.org/techniques/T1542/003/)
 
 Bootkits related repositories:
 
-* [SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) ⭐ 632 | 🐛 0 | 🌐 C | 📅 2023-10-09
+* [SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) ⭐ 633 | 🐛 0 | 🌐 C | 📅 2023-10-09
 * [umap](https://github.com/btbd/umap) ⭐ 603 | 🐛 7 | 🌐 C | 📅 2024-01-01
 * [UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) ⭐ 525 | 🐛 0 | 🌐 C | 📅 2019-08-29
 * [PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) ⭐ 231 | 🐛 0 | 🌐 C | 📅 2021-05-01
@@ -78,18 +78,18 @@ Bootkits related repositories:
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,925 | 🐛 10 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
-* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,103 | 🐛 111 | 🌐 Python | 📅 2026-09-13: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,683 | 🐛 23 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
-* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,303 | 🐛 43 | 🌐 Python | 📅 2026-09-21: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
-* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,535 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,653 | 🐛 32 | 🌐 Rust | 📅 2026-09-21: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
-* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,371 | 🐛 71 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,928 | 🐛 10 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,107 | 🐛 111 | 🌐 Python | 📅 2026-09-13: Qiling has an EFI mode, which can partially emulate UEFI binary files.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,684 | 🐛 23 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
+* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,303 | 🐛 41 | 🌐 Python | 📅 2026-09-22: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
+* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,537 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,654 | 🐛 32 | 🌐 Rust | 📅 2026-09-22: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
+* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,373 | 🐛 71 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
 * [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,127 | 🐛 0 | 🌐 C++ | 📅 2026-08-20: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 * [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,085 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
 * [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 925 | 🐛 12 | 🌐 Python | 📅 2026-06-04: Library for parsing UEFI firmware images.
 * [efi-memory](https://github.com/SamuelTulach/efi-memory) ⚠️ Archived
-* [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 500 | 🐛 9 | 🌐 Java | 📅 2026-09-01
+* [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 501 | 🐛 9 | 🌐 Java | 📅 2026-09-01
 * [dropWPBT](https://github.com/Jamesits/dropWPBT) ⭐ 447 | 🐛 1 | 🌐 C | 📅 2020-05-22
 * [efiSeek](https://github.com/DSecurity/efiSeek) ⭐ 408 | 🐛 12 | 🌐 Java | 📅 2024-06-02: A Ghidra plugin for UEFI binaries analyzing.
 * [fiano](https://github.com/linuxboot/fiano) ⭐ 373 | 🐛 60 | 🌐 Go | 📅 2026-05-14
@@ -120,7 +120,7 @@ Bootkits related repositories:
 * [ThinkPwn](https://github.com/Cr4sh/ThinkPwn) ⭐ 709 | 🐛 0 | 🌐 C | 📅 2022-05-13
 * [CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) ⭐ 353 | 🐛 4 | 🌐 C | 📅 2023-09-27
 * [Vulnerability-REsearch](https://github.com/binarly-io/Vulnerability-REsearch) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-09-07: Vulnerabilities found by Binarly-IO, really a lot.
-* [SmmExploit](https://github.com/tandasat/SmmExploit) ⭐ 150 | 🐛 0 | 📅 2021-03-29
+* [SmmExploit](https://github.com/tandasat/SmmExploit) ⭐ 151 | 🐛 0 | 📅 2021-03-29
 * [UsbRt\_ROP](https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022/UsbRt_ROP_PoC) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-09-03
 * [Aptiocalypsis](https://github.com/Cr4sh/Aptiocalypsis) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2016-10-22
 * [vulnerability-disclosures](https://github.com/eset/vulnerability-disclosures) ⭐ 28 | 🐛 0 | 📅 2022-07-13: Vulnerabilities found by ESET, some of the vulnerabilities in the repo related to UEFI.
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
