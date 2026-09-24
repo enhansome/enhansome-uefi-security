@@ -137,7 +137,7 @@
             "open_issues": 31,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1654,
+            "stars": 1655,
             "topics": [
               "osdev",
               "rust",
@@ -264,7 +264,7 @@
             "open_issues": 1,
             "owner": "arata-nvm",
             "repo": "mitnal",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "edk2",
               "twitter-client",
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "backdoor",
               "boot",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7929,
+            "stars": 7931,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -515,7 +515,7 @@
             "open_issues": 23,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5687,
+            "stars": 5690,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,8 +532,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-22T21:27:05Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-23T22:57:43Z",
+            "open_issues": 39,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3304,
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2537,
+            "stars": 2539,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 31,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1654,
+            "stars": 1655,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 71,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1375,
+            "stars": 1376,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1127,
+            "stars": 1128,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1085,
+            "stars": 1086,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:11:42.063Z",
+    "last_updated": "2026-09-24T14:09:53.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
