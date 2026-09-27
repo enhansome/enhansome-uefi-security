@@ -618,7 +618,7 @@
             "open_issues": 71,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1377,
+            "stars": 1379,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1086,
+            "stars": 1088,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:43:01.305Z",
+    "last_updated": "2026-09-27T14:39:35.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
