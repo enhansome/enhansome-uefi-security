@@ -239,7 +239,7 @@
             "open_issues": 16,
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "edk2",
               "python",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7936,
+            "stars": 7939,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 114,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6112,
+            "stars": 6116,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 24,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5701,
+            "stars": 5702,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -536,7 +536,7 @@
             "open_issues": 43,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3307,
+            "stars": 3309,
             "topics": [
               "firmware",
               "firmware-security",
@@ -643,7 +643,7 @@
             "id": 276023403,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-20T00:14:15Z",
+            "last_commit": "2026-09-28T23:07:04Z",
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "FwHunt",
-            "stars": 248,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -955,7 +955,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "fwhunt-scan",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:35:40.986Z",
+    "last_updated": "2026-09-29T15:39:09.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
