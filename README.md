@@ -35,7 +35,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## Development :computer:
 
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,658 | 🐛 32 | 🌐 Rust | 📅 2026-09-28
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,658 | 🐛 32 | 🌐 Rust | 📅 2026-10-01
 * [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons) ⭐ 374 | 🐛 1 | 🌐 C | 📅 2024-03-05
 * [arch-secure-boot](https://github.com/maximbaz/arch-secure-boot) ⭐ 146 | 🐛 3 | 🌐 Shell | 📅 2024-07-18
 * [edk2-libc](https://github.com/tianocore/edk2-libc) ⭐ 136 | 🐛 16 | 🌐 Python | 📅 2026-09-10
@@ -80,10 +80,10 @@ Bootkits related repositories:
 
 * [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,944 | 🐛 10 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
 * [qiling](https://github.com/qilingframework/qiling) ⭐ 6,116 | 🐛 114 | 🌐 Python | 📅 2026-09-24: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,703 | 🐛 24 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
-* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,310 | 🐛 43 | 🌐 Python | 📅 2026-09-28: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,705 | 🐛 24 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
+* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,311 | 🐛 45 | 🌐 Python | 📅 2026-09-28: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
 * [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,546 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,658 | 🐛 32 | 🌐 Rust | 📅 2026-09-28: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,658 | 🐛 32 | 🌐 Rust | 📅 2026-10-01: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
 * [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,380 | 🐛 71 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
 * [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,129 | 🐛 0 | 🌐 C++ | 📅 2026-09-28: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 * [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,089 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
