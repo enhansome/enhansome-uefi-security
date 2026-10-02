@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 604,
+            "stars": 605,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7944,
+            "stars": 7945,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 114,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6116,
+            "stars": 6117,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 24,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5705,
+            "stars": 5706,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -533,7 +533,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-28T01:06:44Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3311,
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2546,
+            "stars": 2548,
             "topics": [
               "bootkit",
               "driver",
@@ -615,7 +615,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2025-02-06T21:28:26Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
             "stars": 1380,
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1129,
+            "stars": 1131,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1089,
+            "stars": 1090,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1429,7 +1429,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1549,7 +1549,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1570,7 +1570,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1642,7 +1642,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1663,7 +1663,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "Research_Publications",
-            "stars": 134,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:17:18.186Z",
+    "last_updated": "2026-10-02T15:41:32.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
@@ -1685,7 +1685,7 @@
       "open_issues": 0,
       "owner": "river-li",
       "repo": "awesome-uefi-security",
-      "stars": 232,
+      "stars": 233,
       "topics": [
         "awesome",
         "awesome-list",
