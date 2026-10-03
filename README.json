@@ -137,7 +137,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1657,
+            "stars": 1658,
             "topics": [
               "osdev",
               "rust",
@@ -593,7 +593,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1657,
+            "stars": 1658,
             "topics": [
               "osdev",
               "rust",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:13:37.345Z",
+    "last_updated": "2026-10-03T14:16:02.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
