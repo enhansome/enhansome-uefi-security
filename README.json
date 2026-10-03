@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "DVUEFI",
-          "description": null,
+          "description": "hacking-support/DVUEFI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "UIUCTF-2022 SMM Cow Say 1",
-          "description": null,
+          "description": "sigpwny/UIUCTF-2022-Public",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "UIUCTF-2022 SMM Cow Say 2",
-          "description": null,
+          "description": "sigpwny/UIUCTF-2022-Public",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "UIUCTF-2022 SMM Cow Say 3",
-          "description": null,
+          "description": "sigpwny/UIUCTF-2022-Public",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "D^3CTF-2022-pwn-d3guard",
-          "description": null,
+          "description": "yikesoftware/d3ctf-2022-pwn-d3guard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -124,7 +124,7 @@
         {
           "node_type": "item",
           "title": "uefi-rs",
-          "description": null,
+          "description": "rust-osdev/uefi-rs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,7 +137,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1658,
+            "stars": 1657,
             "topics": [
               "osdev",
               "rust",
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "UEFI-Lessons",
-          "description": null,
+          "description": "Kostr/UEFI-Lessons",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -176,7 +176,7 @@
         {
           "node_type": "item",
           "title": "arch-secure-boot",
-          "description": null,
+          "description": "max-baz/arch-secure-boot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "edk2-libc",
-          "description": null,
+          "description": "tianocore/edk2-libc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -226,7 +226,7 @@
         {
           "node_type": "item",
           "title": "edk2-pytool-library",
-          "description": null,
+          "description": "tianocore/edk2-pytool-library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,7 +251,7 @@
         {
           "node_type": "item",
           "title": "mitnal",
-          "description": null,
+          "description": "arata-nvm/mitnal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "uefi-paint",
-          "description": null,
+          "description": "nrdmn/uefi-paint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -306,7 +306,7 @@
         {
           "node_type": "item",
           "title": "SmmBackdoor",
-          "description": null,
+          "description": "Cr4sh/SmmBackdoor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,7 +335,7 @@
         {
           "node_type": "item",
           "title": "umap",
-          "description": null,
+          "description": "btbd/umap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
         {
           "node_type": "item",
           "title": "UEFI-Bootkit",
-          "description": null,
+          "description": "ajkhoury/UEFI-Bootkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -385,7 +385,7 @@
         {
           "node_type": "item",
           "title": "PeiBackdoor",
-          "description": null,
+          "description": "Cr4sh/PeiBackdoor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -414,7 +414,7 @@
         {
           "node_type": "item",
           "title": "LoJax",
-          "description": null,
+          "description": "loneicewolf/LOJAX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7945,
+            "stars": 7944,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -515,7 +515,7 @@
             "open_issues": 24,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5706,
+            "stars": 5705,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,8 +532,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-28T01:06:44Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-02T22:32:31Z",
+            "open_issues": 44,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3311,
@@ -550,7 +550,7 @@
         {
           "node_type": "item",
           "title": "EfiGuard",
-          "description": null,
+          "description": "Mattiwatti/EfiGuard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,7 +593,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1658,
+            "stars": 1657,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1380,
+            "stars": 1381,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1131,
+            "stars": 1132,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -707,7 +707,7 @@
         {
           "node_type": "item",
           "title": "efi-memory",
-          "description": null,
+          "description": "SamuelTulach/efi-memory",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -728,7 +728,7 @@
         {
           "node_type": "item",
           "title": "ghidra-firmware-utils",
-          "description": null,
+          "description": "al3xtjames/ghidra-firmware-utils",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -754,7 +754,7 @@
         {
           "node_type": "item",
           "title": "dropWPBT",
-          "description": null,
+          "description": "Jamesits/dropWPBT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,7 +806,7 @@
         {
           "node_type": "item",
           "title": "fiano",
-          "description": null,
+          "description": "linuxboot/fiano",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -833,7 +833,7 @@
         {
           "node_type": "item",
           "title": "uefi-retool",
-          "description": null,
+          "description": "yeggor/uefi_retool",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -887,7 +887,7 @@
         {
           "node_type": "item",
           "title": "fwexpl",
-          "description": null,
+          "description": "Cr4sh/fwexpl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -921,7 +921,7 @@
         {
           "node_type": "item",
           "title": "FwHunt",
-          "description": null,
+          "description": "binarly-io/FwHunt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -942,7 +942,7 @@
         {
           "node_type": "item",
           "title": "fwhunt-scan",
-          "description": null,
+          "description": "binarly-io/fwhunt-scan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -971,7 +971,7 @@
         {
           "node_type": "item",
           "title": "VBiosFinder",
-          "description": null,
+          "description": "coderobe/VBiosFinder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1023,7 +1023,7 @@
         {
           "node_type": "item",
           "title": "UefiVarMonitor",
-          "description": null,
+          "description": "tandasat/UefiVarMonitor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1048,7 +1048,7 @@
         {
           "node_type": "item",
           "title": "kraft_dinner",
-          "description": null,
+          "description": "tandasat/kraft_dinner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1118,7 +1118,7 @@
         {
           "node_type": "item",
           "title": "smram_parse",
-          "description": null,
+          "description": "Cr4sh/smram_parse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1149,7 +1149,7 @@
         {
           "node_type": "item",
           "title": "ebvm",
-          "description": null,
+          "description": "yabits/ebcvm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1197,7 +1197,7 @@
         {
           "node_type": "item",
           "title": "UEFI-SecureBoot-SignTool",
-          "description": null,
+          "description": "aneesh-neelam/UEFI-SecureBoot-SignTool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1265,7 +1265,7 @@
             "open_issues": 0,
             "owner": "zznop",
             "repo": "efi-inspector",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1279,7 +1279,7 @@
         {
           "node_type": "item",
           "title": "Super-UEFIinSecureBoot-Disk",
-          "description": null,
+          "description": "ValdikSS/Super-UEFIinSecureBoot-Disk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1312,7 +1312,7 @@
         {
           "node_type": "item",
           "title": "ThinkPwn",
-          "description": null,
+          "description": "Cr4sh/ThinkPwn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1325,7 +1325,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "0day",
               "exploit",
@@ -1341,7 +1341,7 @@
         {
           "node_type": "item",
           "title": "CVE-2022-21894",
-          "description": null,
+          "description": "Wack0/CVE-2022-21894",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1391,7 +1391,7 @@
         {
           "node_type": "item",
           "title": "SmmExploit",
-          "description": null,
+          "description": "tandasat/SmmExploit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1416,7 +1416,7 @@
         {
           "node_type": "item",
           "title": "UsbRt_ROP",
-          "description": null,
+          "description": "binarly-io/Research_Publications",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1437,7 +1437,7 @@
         {
           "node_type": "item",
           "title": "Aptiocalypsis",
-          "description": null,
+          "description": "Cr4sh/Aptiocalypsis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:41:32.860Z",
+    "last_updated": "2026-10-03T05:13:37.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",

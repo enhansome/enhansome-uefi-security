@@ -35,7 +35,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## Development :computer:
 
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,658 | 🐛 32 | 🌐 Rust | 📅 2026-10-01
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,657 | 🐛 32 | 🌐 Rust | 📅 2026-10-01
 * [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons) ⭐ 374 | 🐛 1 | 🌐 C | 📅 2024-03-05
 * [arch-secure-boot](https://github.com/maximbaz/arch-secure-boot) ⭐ 146 | 🐛 3 | 🌐 Shell | 📅 2024-07-18
 * [edk2-libc](https://github.com/tianocore/edk2-libc) ⭐ 136 | 🐛 16 | 🌐 Python | 📅 2026-09-10
@@ -78,14 +78,14 @@ Bootkits related repositories:
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,945 | 🐛 10 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,944 | 🐛 10 | 🌐 C | 📅 2026-07-25: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
 * [qiling](https://github.com/qilingframework/qiling) ⭐ 6,117 | 🐛 114 | 🌐 Python | 📅 2026-09-24: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,706 | 🐛 24 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
-* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,311 | 🐛 46 | 🌐 Python | 📅 2026-09-28: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,705 | 🐛 24 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
+* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,311 | 🐛 44 | 🌐 Python | 📅 2026-10-02: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
 * [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,548 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,658 | 🐛 32 | 🌐 Rust | 📅 2026-10-01: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
-* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,380 | 🐛 72 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
-* [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,131 | 🐛 0 | 🌐 C++ | 📅 2026-09-28: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,657 | 🐛 32 | 🌐 Rust | 📅 2026-10-01: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
+* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,381 | 🐛 72 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
+* [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,132 | 🐛 0 | 🌐 C++ | 📅 2026-09-28: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 * [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,090 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
 * [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 928 | 🐛 12 | 🌐 Python | 📅 2026-06-04: Library for parsing UEFI firmware images.
 * [efi-memory](https://github.com/SamuelTulach/efi-memory) ⚠️ Archived
@@ -109,7 +109,7 @@ Bootkits related repositories:
 * [efi-resolver](https://github.com/Vector35/efi-resolver) ⚠️ Archived: Official UEFI plugin for Binary Ninja; it supports type propogation, which is really cool, and it starts supporting PEI files now.
 * [UEFI-SecureBoot-SignTool](https://github.com/aneesh-neelam/UEFI-SecureBoot-SignTool) ⭐ 31 | 🐛 2 | 🌐 Shell | 📅 2019-10-24
 * [python-uefivars](https://github.com/awslabs/python-uefivars) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2024-09-13: A python tool to inspect UEFI variables (but it cannot take firmware images as input).
-* [efi-inspector](https://github.com/zznop/efi-inspector) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-02-28: A Binary Ninja plugin for parsing UEFI firmware images.
+* [efi-inspector](https://github.com/zznop/efi-inspector) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-02-28: A Binary Ninja plugin for parsing UEFI firmware images.
 * [LVFS](https://fwupd.org)
 * [Voyager](https://git.back.engineering/_xeroxz/voyager)
 * [bob\_efi\_fuzzer](https://github.com/HO-9/bob_efi_fuzzer)
@@ -117,7 +117,7 @@ Bootkits related repositories:
 ## Vulnerabilities & Exploits :mag\_right:
 
 * [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) ⭐ 846 | 🐛 8 | 📅 2022-06-20
-* [ThinkPwn](https://github.com/Cr4sh/ThinkPwn) ⭐ 709 | 🐛 0 | 🌐 C | 📅 2022-05-13
+* [ThinkPwn](https://github.com/Cr4sh/ThinkPwn) ⭐ 710 | 🐛 0 | 🌐 C | 📅 2022-05-13
 * [CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) ⭐ 354 | 🐛 4 | 🌐 C | 📅 2023-09-27
 * [Vulnerability-REsearch](https://github.com/binarly-io/Vulnerability-REsearch) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-09-07: Vulnerabilities found by Binarly-IO, really a lot.
 * [SmmExploit](https://github.com/tandasat/SmmExploit) ⭐ 151 | 🐛 0 | 📅 2021-03-29
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
