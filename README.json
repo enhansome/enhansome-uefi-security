@@ -137,7 +137,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1658,
+            "stars": 1660,
             "topics": [
               "osdev",
               "rust",
@@ -162,7 +162,7 @@
             "open_issues": 1,
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "edk2",
               "edk2-training",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7944,
+            "stars": 7947,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 114,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6117,
+            "stars": 6119,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 24,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5705,
+            "stars": 5715,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2548,
+            "stars": 2549,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1658,
+            "stars": 1660,
             "topics": [
               "osdev",
               "rust",
@@ -819,7 +819,7 @@
             "open_issues": 60,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "firmware",
               "go",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:16:02.836Z",
+    "last_updated": "2026-10-04T14:44:25.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
