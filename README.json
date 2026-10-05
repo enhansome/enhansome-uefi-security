@@ -133,11 +133,11 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T12:40:10Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-05T00:40:26Z",
+            "open_issues": 34,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1660,
+            "stars": 1663,
             "topics": [
               "osdev",
               "rust",
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 634,
+            "stars": 635,
             "topics": [
               "backdoor",
               "boot",
@@ -457,11 +457,11 @@
             "id": 64324413,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-07-25T20:12:35Z",
+            "last_commit": "2026-10-05T17:36:17Z",
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7947,
+            "stars": 7948,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 114,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6119,
+            "stars": 6120,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 24,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5715,
+            "stars": 5725,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2549,
+            "stars": 2547,
             "topics": [
               "bootkit",
               "driver",
@@ -589,11 +589,11 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T12:40:10Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-05T00:40:26Z",
+            "open_issues": 34,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1660,
+            "stars": 1663,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1381,
+            "stars": 1382,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1132,
+            "stars": 1133,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "firmware",
               "ghidra",
@@ -793,7 +793,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -819,7 +819,7 @@
             "open_issues": 60,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "firmware",
               "go",
@@ -846,7 +846,7 @@
             "open_issues": 0,
             "owner": "yeggor",
             "repo": "uefi_retool",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "firmware",
               "firmware-tools",
@@ -874,7 +874,7 @@
             "open_issues": 34,
             "owner": "intel",
             "repo": "tsffs",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "fuzzing",
               "rust",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:44:25.918Z",
+    "last_updated": "2026-10-05T18:17:48.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
