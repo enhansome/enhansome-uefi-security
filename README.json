@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "hacking-support",
             "repo": "DVUEFI",
-            "stars": 307,
+            "stars": 308,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -137,7 +137,7 @@
             "open_issues": 34,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1663,
+            "stars": 1664,
             "topics": [
               "osdev",
               "rust",
@@ -515,7 +515,7 @@
             "open_issues": 24,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5725,
+            "stars": 5728,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -533,7 +533,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-02T22:32:31Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3311,
@@ -593,7 +593,7 @@
             "open_issues": 34,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1663,
+            "stars": 1664,
             "topics": [
               "osdev",
               "rust",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:17:48.125Z",
+    "last_updated": "2026-10-06T10:51:33.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
