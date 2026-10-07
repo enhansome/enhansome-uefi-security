@@ -137,7 +137,7 @@
             "open_issues": 34,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1664,
+            "stars": 1663,
             "topics": [
               "osdev",
               "rust",
@@ -427,7 +427,7 @@
             "open_issues": 1,
             "owner": "loneicewolf",
             "repo": "LOJAX",
-            "stars": 39,
+            "stars": 38,
             "topics": [
               "bootkit",
               "lojax",
@@ -512,10 +512,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-29T01:21:27Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5728,
+            "stars": 5731,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,8 +532,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T22:32:31Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-06T16:42:28Z",
+            "open_issues": 47,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3311,
@@ -593,7 +593,7 @@
             "open_issues": 34,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1664,
+            "stars": 1663,
             "topics": [
               "osdev",
               "rust",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1133,
+            "stars": 1134,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -1591,7 +1591,7 @@
             "open_issues": 4,
             "owner": "nccgroup",
             "repo": "TPMGenie",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "arduino",
               "hardware",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:50:10.056Z",
+    "last_updated": "2026-10-07T16:19:03.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
