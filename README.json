@@ -137,7 +137,7 @@
             "open_issues": 34,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1663,
+            "stars": 1664,
             "topics": [
               "osdev",
               "rust",
@@ -162,7 +162,7 @@
             "open_issues": 1,
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "edk2",
               "edk2-training",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7947,
+            "stars": 7950,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5731,
+            "stars": 5732,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,11 +532,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T16:42:28Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-08T01:04:19Z",
+            "open_issues": 49,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3311,
+            "stars": 3313,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2547,
+            "stars": 2548,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 34,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1663,
+            "stars": 1664,
             "topics": [
               "osdev",
               "rust",
@@ -678,7 +678,7 @@
             "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1090,
+            "stars": 1092,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 504,
+            "stars": 505,
             "topics": [
               "firmware",
               "ghidra",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T16:19:03.772Z",
+    "last_updated": "2026-10-08T16:21:40.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
