@@ -189,7 +189,7 @@
             "open_issues": 3,
             "owner": "max-baz",
             "repo": "arch-secure-boot",
-            "stars": 146,
+            "stars": 145,
             "topics": [
               "archlinux",
               "btrfs",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7950,
+            "stars": 7951,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 114,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6121,
+            "stars": 6120,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5732,
+            "stars": 5733,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,11 +532,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-08T01:04:19Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-08T22:54:28Z",
+            "open_issues": 47,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3313,
+            "stars": 3314,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2548,
+            "stars": 2549,
             "topics": [
               "bootkit",
               "driver",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1382,
+            "stars": 1380,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1134,
+            "stars": 1135,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -675,7 +675,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-07-01T22:32:11Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "platomav",
             "repo": "BIOSUtilities",
             "stars": 1092,
@@ -1210,7 +1210,7 @@
             "open_issues": 2,
             "owner": "aneesh-neelam",
             "repo": "UEFI-SecureBoot-SignTool",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "linux-kernel",
               "linux-kernel-module",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T16:21:40.252Z",
+    "last_updated": "2026-10-09T16:04:52.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
