@@ -369,7 +369,7 @@
             "open_issues": 0,
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "assembly",
               "booitkit",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7952,
+            "stars": 7950,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 114,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6122,
+            "stars": 6123,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5734,
+            "stars": 5735,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1381,
+            "stars": 1382,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -675,10 +675,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-07-01T22:32:11Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1092,
+            "stars": 1094,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:13:08.484Z",
+    "last_updated": "2026-10-11T15:32:57.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
