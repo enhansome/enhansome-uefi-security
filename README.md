@@ -78,16 +78,16 @@ Bootkits related repositories:
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,949 | 🐛 10 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
-* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,126 | 🐛 114 | 🌐 Python | 📅 2026-09-24: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,741 | 🐛 25 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
-* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,316 | 🐛 46 | 🌐 Python | 📅 2026-10-12: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
-* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,547 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,950 | 🐛 10 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,129 | 🐛 114 | 🌐 Python | 📅 2026-09-24: Qiling has an EFI mode, which can partially emulate UEFI binary files.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,744 | 🐛 25 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
+* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,318 | 🐛 41 | 🌐 Python | 📅 2026-10-12: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
+* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,546 | 🐛 20 | 🌐 C++ | 📅 2026-06-16
 * [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,664 | 🐛 36 | 🌐 Rust | 📅 2026-10-12: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
 * [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,385 | 🐛 72 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
-* [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,136 | 🐛 0 | 🌐 C++ | 📅 2026-10-12: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
+* [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,137 | 🐛 1 | 🌐 C++ | 📅 2026-10-12: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 * [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,095 | 🐛 2 | 🌐 Python | 📅 2025-07-01: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
-* [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 930 | 🐛 13 | 🌐 Python | 📅 2026-06-04: Library for parsing UEFI firmware images.
+* [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 930 | 🐛 12 | 🌐 Python | 📅 2026-10-12: Library for parsing UEFI firmware images.
 * [efi-memory](https://github.com/SamuelTulach/efi-memory) ⚠️ Archived
 * [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 506 | 🐛 9 | 🌐 Java | 📅 2026-09-01
 * [dropWPBT](https://github.com/Jamesits/dropWPBT) ⭐ 447 | 🐛 1 | 🌐 C | 📅 2020-05-22
@@ -96,7 +96,7 @@ Bootkits related repositories:
 * [uefi-retool](https://github.com/yeggor/uefi_retool) ⚠️ Archived
 * [tsffs](https://github.com/intel/tsffs) ⭐ 332 | 🐛 34 | 🌐 Rust | 📅 2026-09-16: A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
 * [fwexpl](https://github.com/Cr4sh/fwexpl) ⭐ 263 | 🐛 0 | 🌐 C++ | 📅 2022-05-13
-* [FwHunt](https://github.com/binarly-io/fwhunt) ⭐ 249 | 🐛 1 | 📅 2024-03-12
+* [FwHunt](https://github.com/binarly-io/fwhunt) ⭐ 250 | 🐛 1 | 📅 2024-03-12
 * [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan) ⭐ 246 | 🐛 0 | 🌐 Python | 📅 2025-05-02
 * [VBiosFinder](https://github.com/coderobe/VBiosFinder) ⭐ 155 | 🐛 30 | 🌐 Ruby | 📅 2023-11-05
 * [efi\_fuzz](https://github.com/Sentinel-One/efi_fuzz) ⚠️ Archived: A coverage-guided emulator-based NVRAM fuzzer for UEFI (based on qiling).
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
