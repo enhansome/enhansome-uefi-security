@@ -133,8 +133,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T09:01:50Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-19T02:22:07Z",
+            "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1669,
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7952,
+            "stars": 7956,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 115,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6140,
+            "stars": 6143,
             "topics": [
               "analysis",
               "binary",
@@ -512,10 +512,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-29T01:21:27Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5755,
+            "stars": 5757,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2550,
+            "stars": 2549,
             "topics": [
               "bootkit",
               "driver",
@@ -589,8 +589,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T09:01:50Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-19T02:22:07Z",
+            "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1669,
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1388,
+            "stars": 1389,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -674,8 +674,8 @@
             "id": 146931530,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2025-07-01T22:32:11Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-18T20:58:03Z",
+            "open_issues": 0,
             "owner": "platomav",
             "repo": "BIOSUtilities",
             "stars": 1097,
@@ -699,7 +699,7 @@
             "open_issues": 12,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 930,
+            "stars": 931,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -767,7 +767,7 @@
             "open_issues": 1,
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 447,
+            "stars": 448,
             "topics": [
               "acpi",
               "uefi",
@@ -900,7 +900,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "fwexpl",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "exploit",
               "firmware",
@@ -1162,7 +1162,7 @@
             "open_issues": 0,
             "owner": "yabits",
             "repo": "ebcvm",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "bytecode",
               "ebc",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:09:26.698Z",
+    "last_updated": "2026-10-19T16:24:17.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
