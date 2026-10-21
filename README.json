@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "backdoor",
               "boot",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7954,
+            "stars": 7956,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 115,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6144,
+            "stars": 6149,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5760,
+            "stars": 5762,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 20,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2550,
+            "stars": 2551,
             "topics": [
               "bootkit",
               "driver",
@@ -618,7 +618,7 @@
             "open_issues": 72,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1390,
+            "stars": 1391,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 1,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1139,
+            "stars": 1140,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -815,8 +815,8 @@
             "id": 122654287,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-05-14T21:51:33Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-20T15:17:54Z",
+            "open_issues": 61,
             "owner": "linuxboot",
             "repo": "fiano",
             "stars": 375,
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "FwHunt",
-            "stars": 249,
+            "stars": 250,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -955,7 +955,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "fwhunt-scan",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -1292,7 +1292,7 @@
             "open_issues": 8,
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "bootable-usb",
               "gpt",
@@ -1383,7 +1383,7 @@
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:14:48.510Z",
+    "last_updated": "2026-10-21T14:26:40.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
