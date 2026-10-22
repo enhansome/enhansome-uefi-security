@@ -458,10 +458,10 @@
             "language": "C",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-05T17:36:17Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7956,
+            "stars": 7957,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 115,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6149,
+            "stars": 6151,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5762,
+            "stars": 5761,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,11 +532,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-19T22:07:41Z",
+            "last_commit": "2026-10-22T01:05:20Z",
             "open_issues": 43,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3322,
+            "stars": 3320,
             "topics": [
               "firmware",
               "firmware-security",
@@ -560,7 +560,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-06-16T23:48:44Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
             "stars": 2551,
@@ -615,10 +615,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2025-02-06T21:28:26Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1391,
+            "stars": 1393,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -874,7 +874,7 @@
             "open_issues": 35,
             "owner": "intel",
             "repo": "tsffs",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "fuzzing",
               "rust",
@@ -1325,7 +1325,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 710,
+            "stars": 711,
             "topics": [
               "0day",
               "exploit",
@@ -1404,7 +1404,7 @@
             "open_issues": 0,
             "owner": "tandasat",
             "repo": "SmmExploit",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "smm",
               "uefi",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:26:40.467Z",
+    "last_updated": "2026-10-22T14:28:06.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
