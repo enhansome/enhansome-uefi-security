@@ -369,7 +369,7 @@
             "open_issues": 0,
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "assembly",
               "booitkit",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7957,
+            "stars": 7958,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 115,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6151,
+            "stars": 6153,
             "topics": [
               "analysis",
               "binary",
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2551,
+            "stars": 2554,
             "topics": [
               "bootkit",
               "driver",
@@ -618,7 +618,7 @@
             "open_issues": 73,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1393,
+            "stars": 1394,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -678,7 +678,7 @@
             "open_issues": 0,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1098,
+            "stars": 1099,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -793,7 +793,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -871,7 +871,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T19:04:13Z",
-            "open_issues": 35,
+            "open_issues": 39,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 333,
@@ -1162,7 +1162,7 @@
             "open_issues": 0,
             "owner": "yabits",
             "repo": "ebcvm",
-            "stars": 83,
+            "stars": 82,
             "topics": [
               "bytecode",
               "ebc",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:28:06.131Z",
+    "last_updated": "2026-10-23T14:11:01.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
