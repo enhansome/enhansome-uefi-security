@@ -16,7 +16,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## CTF-Challenges
 
-* [DVUEFI](https://github.com/hacking-support/DVUEFI) ⭐ 309 | 🐛 2 | 🌐 C++ | 📅 2024-09-09
+* [DVUEFI](https://github.com/hacking-support/DVUEFI) ⭐ 308 | 🐛 2 | 🌐 C++ | 📅 2024-09-09
 * [UIUCTF-2022 SMM Cow Say 1](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_1) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
 * [UIUCTF-2022 SMM Cow Say 2](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_2) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
 * [UIUCTF-2022 SMM Cow Say 3](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_3) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-09
@@ -45,7 +45,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 Some interesting projects
 
-* [mitnal](https://github.com/arata-nvm/mitnal) ⭐ 530 | 🐛 1 | 🌐 C | 📅 2022-01-31
+* [mitnal](https://github.com/arata-nvm/mitnal) ⭐ 529 | 🐛 1 | 🌐 C | 📅 2022-01-31
 * [uefi-paint](https://github.com/nrdmn/uefi-paint) ⭐ 50 | 🐛 0 | 🌐 Zig | 📅 2019-09-20
 
 ## Bootkits :bomb:
@@ -69,23 +69,23 @@ ATT\&CK [Attack Vector](https://attack.mitre.org/techniques/T1542/003/)
 
 Bootkits related repositories:
 
-* [SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) ⭐ 637 | 🐛 0 | 🌐 C | 📅 2023-10-09
-* [umap](https://github.com/btbd/umap) ⭐ 607 | 🐛 7 | 🌐 C | 📅 2024-01-01
-* [UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) ⭐ 527 | 🐛 0 | 🌐 C | 📅 2019-08-29
+* [SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) ⭐ 636 | 🐛 0 | 🌐 C | 📅 2023-10-09
+* [umap](https://github.com/btbd/umap) ⭐ 606 | 🐛 7 | 🌐 C | 📅 2024-01-01
+* [UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) ⭐ 526 | 🐛 0 | 🌐 C | 📅 2019-08-29
 * [PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) ⭐ 232 | 🐛 0 | 🌐 C | 📅 2021-05-01
 * [LoJax](https://github.com/loneicewolf/LOJAX) ⭐ 39 | 🐛 1 | 📅 2023-03-09
 * [bootlicker](https://github.com/realoriginal/bootlicker)
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,962 | 🐛 9 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
-* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,153 | 🐛 116 | 🌐 Python | 📅 2026-10-23: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,765 | 🐛 26 | 🌐 C | 📅 2026-07-29: Tool for parsing and extracting UEFI firmware images.
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,963 | 🐛 9 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,156 | 🐛 116 | 🌐 Python | 📅 2026-10-23: Qiling has an EFI mode, which can partially emulate UEFI binary files.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,768 | 🐛 25 | 🌐 C | 📅 2026-10-24: Tool for parsing and extracting UEFI firmware images.
 * [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,319 | 🐛 43 | 🌐 Python | 📅 2026-10-22: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
-* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,555 | 🐛 21 | 🌐 C++ | 📅 2026-06-16
+* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,554 | 🐛 21 | 🌐 C++ | 📅 2026-06-16
 * [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,671 | 🐛 32 | 🌐 Rust | 📅 2026-10-19: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
-* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,395 | 🐛 73 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
-* [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,140 | 🐛 1 | 🌐 C++ | 📅 2026-10-12: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
+* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,394 | 🐛 73 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
+* [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,141 | 🐛 1 | 🌐 C++ | 📅 2026-10-12: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 * [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,099 | 🐛 0 | 🌐 Python | 📅 2026-10-18: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
 * [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 931 | 🐛 13 | 🌐 Python | 📅 2026-10-12: Library for parsing UEFI firmware images.
 * [efi-memory](https://github.com/SamuelTulach/efi-memory) ⚠️ Archived
@@ -116,9 +116,9 @@ Bootkits related repositories:
 
 ## Vulnerabilities & Exploits :mag\_right:
 
-* [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) ⭐ 847 | 🐛 8 | 📅 2022-06-20
+* [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) ⭐ 846 | 🐛 8 | 📅 2022-06-20
 * [ThinkPwn](https://github.com/Cr4sh/ThinkPwn) ⭐ 711 | 🐛 0 | 🌐 C | 📅 2022-05-13
-* [CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) ⭐ 353 | 🐛 4 | 🌐 C | 📅 2023-09-27
+* [CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) ⭐ 352 | 🐛 4 | 🌐 C | 📅 2023-09-27
 * [Vulnerability-REsearch](https://github.com/binarly-io/Vulnerability-REsearch) ⭐ 197 | 🐛 1 | 🌐 Python | 📅 2026-09-07: Vulnerabilities found by Binarly-IO, really a lot.
 * [SmmExploit](https://github.com/tandasat/SmmExploit) ⭐ 152 | 🐛 0 | 📅 2021-03-29
 * [UsbRt\_ROP](https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022/UsbRt_ROP_PoC) ⭐ 133 | 🐛 0 | 🌐 Python | 📅 2026-09-03
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
