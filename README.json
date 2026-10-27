@@ -133,11 +133,11 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T03:17:43Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-27T00:52:29Z",
+            "open_issues": 30,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1672,
+            "stars": 1673,
             "topics": [
               "osdev",
               "rust",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7964,
+            "stars": 7963,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 116,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6158,
+            "stars": 6160,
             "topics": [
               "analysis",
               "binary",
@@ -511,11 +511,11 @@
             "id": 13405986,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-24T19:24:45Z",
+            "last_commit": "2026-10-27T14:01:22Z",
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5774,
+            "stars": 5775,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2555,
+            "stars": 2556,
             "topics": [
               "bootkit",
               "driver",
@@ -589,11 +589,11 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T03:17:43Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-27T00:52:29Z",
+            "open_issues": 30,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1672,
+            "stars": 1673,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 73,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1395,
+            "stars": 1396,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -1325,7 +1325,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 711,
+            "stars": 710,
             "topics": [
               "0day",
               "exploit",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:03:32.501Z",
+    "last_updated": "2026-10-27T15:17:00.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
