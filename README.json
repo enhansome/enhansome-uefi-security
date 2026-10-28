@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "hacking-support",
             "repo": "DVUEFI",
-            "stars": 308,
+            "stars": 309,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -264,7 +264,7 @@
             "open_issues": 1,
             "owner": "arata-nvm",
             "repo": "mitnal",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "edk2",
               "twitter-client",
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "backdoor",
               "boot",
@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 607,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -369,7 +369,7 @@
             "open_issues": 0,
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
-            "stars": 526,
+            "stars": 528,
             "topics": [
               "assembly",
               "booitkit",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7963,
+            "stars": 7969,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 116,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6160,
+            "stars": 6161,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5775,
+            "stars": 5778,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2556,
+            "stars": 2558,
             "topics": [
               "bootkit",
               "driver",
@@ -615,7 +615,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2025-02-06T21:28:26Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
             "stars": 1396,
@@ -699,7 +699,7 @@
             "open_issues": 13,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 931,
+            "stars": 932,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -720,7 +720,7 @@
             "open_issues": 8,
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 581,
+            "stars": 582,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -741,7 +741,7 @@
             "open_issues": 10,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "firmware",
               "ghidra",
@@ -793,7 +793,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -870,8 +870,8 @@
             "id": 690799710,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T19:04:13Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-28T09:09:45Z",
+            "open_issues": 35,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 333,
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "FwHunt",
-            "stars": 250,
+            "stars": 251,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1354,7 +1354,7 @@
             "open_issues": 4,
             "owner": "Wack0",
             "repo": "CVE-2022-21894",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "cve-2022-21894",
               "cve-2023-24932",
@@ -1379,7 +1379,7 @@
             "id": 386091851,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T14:38:43Z",
+            "last_commit": "2026-10-28T03:28:56Z",
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:17:00.120Z",
+    "last_updated": "2026-10-28T15:54:15.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
