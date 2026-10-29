@@ -69,8 +69,8 @@ ATT\&CK [Attack Vector](https://attack.mitre.org/techniques/T1542/003/)
 
 Bootkits related repositories:
 
-* [SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) ⭐ 638 | 🐛 0 | 🌐 C | 📅 2023-10-09
-* [umap](https://github.com/btbd/umap) ⭐ 608 | 🐛 7 | 🌐 C | 📅 2024-01-01
+* [SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) ⭐ 639 | 🐛 0 | 🌐 C | 📅 2023-10-09
+* [umap](https://github.com/btbd/umap) ⭐ 607 | 🐛 7 | 🌐 C | 📅 2024-01-01
 * [UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) ⭐ 528 | 🐛 0 | 🌐 C | 📅 2019-08-29
 * [PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) ⭐ 233 | 🐛 0 | 🌐 C | 📅 2021-05-01
 * [LoJax](https://github.com/loneicewolf/LOJAX) ⭐ 39 | 🐛 1 | 📅 2023-03-09
@@ -78,16 +78,16 @@ Bootkits related repositories:
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,969 | 🐛 9 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,970 | 🐛 9 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
 * [qiling](https://github.com/qilingframework/qiling) ⭐ 6,161 | 🐛 116 | 🌐 Python | 📅 2026-10-23: Qiling has an EFI mode, which can partially emulate UEFI binary files.
 * [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,778 | 🐛 25 | 🌐 C | 📅 2026-10-27: Tool for parsing and extracting UEFI firmware images.
 * [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,320 | 🐛 43 | 🌐 Python | 📅 2026-10-22: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
 * [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,558 | 🐛 21 | 🌐 C++ | 📅 2026-06-16
 * [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,673 | 🐛 30 | 🌐 Rust | 📅 2026-10-27: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
-* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,396 | 🐛 74 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
+* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,398 | 🐛 74 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
 * [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,141 | 🐛 1 | 🌐 C++ | 📅 2026-10-12: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 * [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,100 | 🐛 0 | 🌐 Python | 📅 2026-10-18: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
-* [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 932 | 🐛 13 | 🌐 Python | 📅 2026-10-12: Library for parsing UEFI firmware images.
+* [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 933 | 🐛 14 | 🌐 Python | 📅 2026-10-12: Library for parsing UEFI firmware images.
 * [efi-memory](https://github.com/SamuelTulach/efi-memory) ⚠️ Archived
 * [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 510 | 🐛 10 | 🌐 Java | 📅 2026-09-01
 * [dropWPBT](https://github.com/Jamesits/dropWPBT) ⭐ 447 | 🐛 1 | 🌐 C | 📅 2020-05-22
@@ -97,7 +97,7 @@ Bootkits related repositories:
 * [tsffs](https://github.com/intel/tsffs) ⭐ 333 | 🐛 35 | 🌐 Rust | 📅 2026-10-28: A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
 * [fwexpl](https://github.com/Cr4sh/fwexpl) ⭐ 265 | 🐛 0 | 🌐 C++ | 📅 2022-05-13
 * [FwHunt](https://github.com/binarly-io/fwhunt) ⭐ 251 | 🐛 1 | 📅 2024-03-12
-* [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan) ⭐ 246 | 🐛 0 | 🌐 Python | 📅 2025-05-02
+* [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan) ⭐ 247 | 🐛 0 | 🌐 Python | 📅 2025-05-02
 * [VBiosFinder](https://github.com/coderobe/VBiosFinder) ⭐ 155 | 🐛 30 | 🌐 Ruby | 📅 2023-11-05
 * [efi\_fuzz](https://github.com/Sentinel-One/efi_fuzz) ⚠️ Archived: A coverage-guided emulator-based NVRAM fuzzer for UEFI (based on qiling).
 * [UefiVarMonitor](https://github.com/tandasat/UefiVarMonitor) ⭐ 146 | 🐛 0 | 🌐 C | 📅 2020-10-09
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
