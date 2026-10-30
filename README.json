@@ -137,7 +137,7 @@
             "open_issues": 30,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1673,
+            "stars": 1674,
             "topics": [
               "osdev",
               "rust",
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5778,
+            "stars": 5782,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2558,
+            "stars": 2561,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 30,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1673,
+            "stars": 1674,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1398,
+            "stars": 1400,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -699,7 +699,7 @@
             "open_issues": 14,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 933,
+            "stars": 932,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -738,10 +738,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T02:39:24Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "al3xtjames",
             "repo": "ghidra-firmware-utils",
-            "stars": 510,
+            "stars": 509,
             "topics": [
               "firmware",
               "ghidra",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:59:37.109Z",
+    "last_updated": "2026-10-30T15:47:46.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
@@ -1685,7 +1685,7 @@
       "open_issues": 0,
       "owner": "river-li",
       "repo": "awesome-uefi-security",
-      "stars": 237,
+      "stars": 238,
       "topics": [
         "awesome",
         "awesome-list",
