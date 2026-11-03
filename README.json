@@ -137,7 +137,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1674,
+            "stars": 1675,
             "topics": [
               "osdev",
               "rust",
@@ -461,7 +461,7 @@
             "open_issues": 9,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7973,
+            "stars": 7977,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 116,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6163,
+            "stars": 6165,
             "topics": [
               "analysis",
               "binary",
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2563,
+            "stars": 2565,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1674,
+            "stars": 1675,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1402,
+            "stars": 1405,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -1379,7 +1379,7 @@
             "id": 386091851,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T03:28:56Z",
+            "last_commit": "2026-11-03T15:11:01Z",
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:25:13.453Z",
+    "last_updated": "2026-11-03T16:57:35.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
@@ -1685,7 +1685,7 @@
       "open_issues": 0,
       "owner": "river-li",
       "repo": "awesome-uefi-security",
-      "stars": 238,
+      "stars": 239,
       "topics": [
         "awesome",
         "awesome-list",
