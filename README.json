@@ -134,7 +134,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T01:20:26Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1675,
@@ -458,10 +458,10 @@
             "language": "C",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-05T17:36:17Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7977,
+            "stars": 7978,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 116,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6165,
+            "stars": 6166,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5786,
+            "stars": 5789,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2565,
+            "stars": 2566,
             "topics": [
               "bootkit",
               "driver",
@@ -590,7 +590,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T01:20:26Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1675,
@@ -618,7 +618,7 @@
             "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1405,
+            "stars": 1406,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -678,7 +678,7 @@
             "open_issues": 0,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1100,
+            "stars": 1101,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1379,7 +1379,7 @@
             "id": 386091851,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T15:11:01Z",
+            "last_commit": "2026-11-04T00:11:57Z",
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:57:35.387Z",
+    "last_updated": "2026-11-04T17:02:20.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
