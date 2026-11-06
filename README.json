@@ -133,7 +133,7 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T01:20:26Z",
+            "last_commit": "2026-11-06T00:35:43Z",
             "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
@@ -162,7 +162,7 @@
             "open_issues": 1,
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "edk2",
               "edk2-training",
@@ -186,7 +186,7 @@
             "language": "Shell",
             "license": "ISC",
             "last_commit": "2024-07-18T11:21:45Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "max-baz",
             "repo": "arch-secure-boot",
             "stars": 145,
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5791,
+            "stars": 5792,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,8 +532,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-05T02:03:03Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-06T12:47:55Z",
+            "open_issues": 39,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3322,
@@ -589,7 +589,7 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T01:20:26Z",
+            "last_commit": "2026-11-06T00:35:43Z",
             "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
@@ -618,7 +618,7 @@
             "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1406,
+            "stars": 1409,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -767,7 +767,7 @@
             "open_issues": 1,
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 447,
+            "stars": 448,
             "topics": [
               "acpi",
               "uefi",
@@ -819,7 +819,7 @@
             "open_issues": 61,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "firmware",
               "go",
@@ -874,7 +874,7 @@
             "open_issues": 35,
             "owner": "intel",
             "repo": "tsffs",
-            "stars": 333,
+            "stars": 334,
             "topics": [
               "fuzzing",
               "rust",
@@ -955,7 +955,7 @@
             "open_issues": 0,
             "owner": "binarly-io",
             "repo": "fwhunt-scan",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:17:24.484Z",
+    "last_updated": "2026-11-06T16:41:22.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
