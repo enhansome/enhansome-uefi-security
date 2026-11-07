@@ -137,7 +137,7 @@
             "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1675,
+            "stars": 1678,
             "topics": [
               "osdev",
               "rust",
@@ -218,7 +218,7 @@
             "open_issues": 16,
             "owner": "tianocore",
             "repo": "edk2-libc",
-            "stars": 137,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 608,
+            "stars": 607,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7980,
+            "stars": 7983,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 116,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6166,
+            "stars": 6167,
             "topics": [
               "analysis",
               "binary",
@@ -532,8 +532,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-06T12:47:55Z",
-            "open_issues": 39,
+            "last_commit": "2026-11-07T01:35:19Z",
+            "open_issues": 31,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3322,
@@ -593,7 +593,7 @@
             "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1675,
+            "stars": 1678,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1409,
+            "stars": 1410,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1143,
+            "stars": 1145,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -819,7 +819,7 @@
             "open_issues": 61,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 377,
+            "stars": 378,
             "topics": [
               "firmware",
               "go",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:41:22.804Z",
+    "last_updated": "2026-11-07T15:36:14.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
