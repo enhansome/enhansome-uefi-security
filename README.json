@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "hacking-support",
             "repo": "DVUEFI",
-            "stars": 309,
+            "stars": 308,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -137,7 +137,7 @@
             "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1678,
+            "stars": 1680,
             "topics": [
               "osdev",
               "rust",
@@ -218,7 +218,7 @@
             "open_issues": 16,
             "owner": "tianocore",
             "repo": "edk2-libc",
-            "stars": 140,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -264,7 +264,7 @@
             "open_issues": 1,
             "owner": "arata-nvm",
             "repo": "mitnal",
-            "stars": 530,
+            "stars": 529,
             "topics": [
               "edk2",
               "twitter-client",
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 639,
+            "stars": 638,
             "topics": [
               "backdoor",
               "boot",
@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 607,
+            "stars": 606,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -369,7 +369,7 @@
             "open_issues": 0,
             "owner": "ajkhoury",
             "repo": "UEFI-Bootkit",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "assembly",
               "booitkit",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7983,
+            "stars": 7982,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5792,
+            "stars": 5793,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -536,7 +536,7 @@
             "open_issues": 31,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3322,
+            "stars": 3323,
             "topics": [
               "firmware",
               "firmware-security",
@@ -593,7 +593,7 @@
             "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1678,
+            "stars": 1680,
             "topics": [
               "osdev",
               "rust",
@@ -618,7 +618,7 @@
             "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1410,
+            "stars": 1411,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -720,7 +720,7 @@
             "open_issues": 8,
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 581,
+            "stars": 580,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1354,7 +1354,7 @@
             "open_issues": 4,
             "owner": "Wack0",
             "repo": "CVE-2022-21894",
-            "stars": 354,
+            "stars": 353,
             "topics": [
               "cve-2022-21894",
               "cve-2023-24932",
@@ -1383,7 +1383,7 @@
             "open_issues": 1,
             "owner": "binarly-io",
             "repo": "Vulnerability-REsearch",
-            "stars": 197,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:36:14.910Z",
+    "last_updated": "2026-11-08T15:54:08.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
