@@ -35,7 +35,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 ## Development :computer:
 
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,680 | 🐛 33 | 🌐 Rust | 📅 2026-11-06
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,680 | 🐛 31 | 🌐 Rust | 📅 2026-11-09
 * [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons) ⭐ 377 | 🐛 1 | 🌐 C | 📅 2024-03-05
 * [arch-secure-boot](https://github.com/maximbaz/arch-secure-boot) ⭐ 145 | 🐛 2 | 🌐 Shell | 📅 2024-07-18
 * [edk2-libc](https://github.com/tianocore/edk2-libc) ⭐ 142 | 🐛 16 | 🌐 Python | 📅 2026-09-10
@@ -78,15 +78,15 @@ Bootkits related repositories:
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,982 | 🐛 10 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
-* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,167 | 🐛 116 | 🌐 Python | 📅 2026-10-23: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,793 | 🐛 25 | 🌐 C | 📅 2026-10-27: Tool for parsing and extracting UEFI firmware images.
-* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,323 | 🐛 31 | 🌐 Python | 📅 2026-11-07: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
-* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,566 | 🐛 21 | 🌐 C++ | 📅 2026-06-16
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,680 | 🐛 33 | 🌐 Rust | 📅 2026-11-06: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 7,981 | 🐛 10 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,171 | 🐛 116 | 🌐 Python | 📅 2026-10-23: Qiling has an EFI mode, which can partially emulate UEFI binary files.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,793 | 🐛 26 | 🌐 C | 📅 2026-10-27: Tool for parsing and extracting UEFI firmware images.
+* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,325 | 🐛 35 | 🌐 Python | 📅 2026-11-09: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
+* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,568 | 🐛 21 | 🌐 C++ | 📅 2026-06-16
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,680 | 🐛 31 | 🌐 Rust | 📅 2026-11-09: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
 * [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,411 | 🐛 74 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
 * [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,145 | 🐛 0 | 🌐 C++ | 📅 2026-10-31: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
-* [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,101 | 🐛 0 | 🌐 Python | 📅 2026-10-18: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
+* [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,104 | 🐛 0 | 🌐 Python | 📅 2026-10-18: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
 * [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 933 | 🐛 0 | 🌐 Python | 📅 2026-11-02: Library for parsing UEFI firmware images.
 * [efi-memory](https://github.com/SamuelTulach/efi-memory) ⚠️ Archived
 * [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 510 | 🐛 12 | 🌐 Java | 📅 2026-09-01
@@ -183,7 +183,7 @@ Bootkits related repositories:
 | 2019 |        DEFCON        |                                                                                                                              [UEFI Exploitation for the Masses](https://www.youtube.com/watch?v=CxqNgjMZAbk)                                                                                                                             |
 | 2019 |        DEFCON        |                                                                                                                         [Ring 0 Ring 2 Rootkits Bypassing Defenses](https://www.youtube.com/watch?v=7AEMxaZhdLU)                                                                                                                         |
 | 2019 |        DEFCON        |                                                                                                                                [ EDR is Coming Hide Yo Sh!t ](https://www.youtube.com/watch?v=q2KUufrjoRo)                                                                                                                               |
-| 2017 |        DEFCON        |                                                                                             [Safeguarding rootkits: IntelBootGuard](https://github.com/flothrone/bootguard/blob/master/Intel%20BG%20part2.pdf) ⭐ 120 \| 🐛 0 \| 📅 2020-12-03                                                                                            |
+| 2017 |        DEFCON        |                                                                                             [Safeguarding rootkits: IntelBootGuard](https://github.com/flothrone/bootguard/blob/master/Intel%20BG%20part2.pdf) ⭐ 121 \| 🐛 0 \| 📅 2020-12-03                                                                                            |
 | 2018 |        DEFCON        |                                                                                                                               [Disabling Intel ME in Firmware](https://www.youtube.com/watch?v=WJo8RsJeqxU)                                                                                                                              |
 | 2014 |        DEFCON        |                                                                                                                   [Extreme Privilege Escalation On Windows 8/UEFI Systems](https://www.youtube.com/watch?v=d6VCri6sPnY)                                                                                                                  |
 | 2013 |        DEFCON        |                                                                                                                               [Hacking Measured Boot and UEFI](https://www.youtube.com/watch?v=9owW2q6SJew)                                                                                                                              |
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
