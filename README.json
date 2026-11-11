@@ -137,7 +137,7 @@
             "open_issues": 31,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1680,
+            "stars": 1681,
             "topics": [
               "osdev",
               "rust",
@@ -162,7 +162,7 @@
             "open_issues": 1,
             "owner": "Kostr",
             "repo": "UEFI-Lessons",
-            "stars": 377,
+            "stars": 378,
             "topics": [
               "edk2",
               "edk2-training",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7982,
+            "stars": 7987,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -515,7 +515,7 @@
             "open_issues": 26,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5795,
+            "stars": 5796,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2569,
+            "stars": 2571,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 31,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1680,
+            "stars": 1681,
             "topics": [
               "osdev",
               "rust",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1145,
+            "stars": 1147,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -678,7 +678,7 @@
             "open_issues": 0,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1104,
+            "stars": 1106,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -696,7 +696,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T04:22:03Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
             "stars": 933,
@@ -870,8 +870,8 @@
             "id": 690799710,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T06:52:54Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-11T16:18:31Z",
+            "open_issues": 81,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 335,
@@ -1036,7 +1036,7 @@
             "open_issues": 0,
             "owner": "tandasat",
             "repo": "UefiVarMonitor",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "dxe-driver",
               "rust",
@@ -1325,7 +1325,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 711,
+            "stars": 712,
             "topics": [
               "0day",
               "exploit",
@@ -1480,7 +1480,7 @@
             "open_issues": 0,
             "owner": "eset",
             "repo": "vulnerability-disclosures",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:57:19.036Z",
+    "last_updated": "2026-11-11T17:01:45.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
@@ -1685,7 +1685,7 @@
       "open_issues": 0,
       "owner": "river-li",
       "repo": "awesome-uefi-security",
-      "stars": 239,
+      "stars": 240,
       "topics": [
         "awesome",
         "awesome-list",
