@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7987,
+            "stars": 7989,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-23T23:47:10Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6171,
+            "stars": 6173,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 26,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5796,
+            "stars": 5795,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -536,7 +536,7 @@
             "open_issues": 36,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3325,
+            "stars": 3326,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2571,
+            "stars": 2572,
             "topics": [
               "bootkit",
               "driver",
@@ -618,7 +618,7 @@
             "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1412,
+            "stars": 1414,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -819,7 +819,7 @@
             "open_issues": 61,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 378,
+            "stars": 377,
             "topics": [
               "firmware",
               "go",
@@ -870,7 +870,7 @@
             "id": 690799710,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T16:18:31Z",
+            "last_commit": "2026-11-11T18:30:51Z",
             "open_issues": 81,
             "owner": "intel",
             "repo": "tsffs",
@@ -1162,7 +1162,7 @@
             "open_issues": 0,
             "owner": "yabits",
             "repo": "ebcvm",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "bytecode",
               "ebc",
@@ -1292,7 +1292,7 @@
             "open_issues": 8,
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 846,
+            "stars": 845,
             "topics": [
               "bootable-usb",
               "gpt",
@@ -1325,7 +1325,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 712,
+            "stars": 713,
             "topics": [
               "0day",
               "exploit",
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "Aptiocalypsis",
-            "stars": 80,
+            "stars": 79,
             "topics": [
               "0day",
               "ami",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:01:45.272Z",
+    "last_updated": "2026-11-12T17:30:19.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
