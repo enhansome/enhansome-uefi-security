@@ -137,7 +137,7 @@
             "open_issues": 31,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1681,
+            "stars": 1682,
             "topics": [
               "osdev",
               "rust",
@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 607,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -515,7 +515,7 @@
             "open_issues": 26,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5795,
+            "stars": 5797,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2572,
+            "stars": 2576,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 31,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1681,
+            "stars": 1682,
             "topics": [
               "osdev",
               "rust",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1147,
+            "stars": 1148,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -870,8 +870,8 @@
             "id": 690799710,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T18:30:51Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-13T16:35:16Z",
+            "open_issues": 73,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 335,
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:30:19.655Z",
+    "last_updated": "2026-11-13T17:07:10.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
