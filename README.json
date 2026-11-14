@@ -134,7 +134,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T00:36:42Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1682,
@@ -235,7 +235,7 @@
             "id": 189661442,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T20:16:08Z",
+            "last_commit": "2026-11-14T02:18:17Z",
             "open_issues": 16,
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7989,
+            "stars": 7988,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-23T23:47:10Z",
-            "open_issues": 118,
+            "open_issues": 121,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6173,
+            "stars": 6174,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 26,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5797,
+            "stars": 5798,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -532,11 +532,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-09T01:04:02Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-13T22:42:40Z",
+            "open_issues": 35,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3326,
+            "stars": 3329,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2576,
+            "stars": 2575,
             "topics": [
               "bootkit",
               "driver",
@@ -590,7 +590,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T00:36:42Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1682,
@@ -618,7 +618,7 @@
             "open_issues": 74,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1414,
+            "stars": 1416,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1148,
+            "stars": 1149,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -699,7 +699,7 @@
             "open_issues": 2,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 933,
+            "stars": 934,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1036,7 +1036,7 @@
             "open_issues": 0,
             "owner": "tandasat",
             "repo": "UefiVarMonitor",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "dxe-driver",
               "rust",
@@ -1292,7 +1292,7 @@
             "open_issues": 8,
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "bootable-usb",
               "gpt",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:07:10.963Z",
+    "last_updated": "2026-11-14T15:42:55.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
