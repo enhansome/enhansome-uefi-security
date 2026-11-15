@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "backdoor",
               "boot",
@@ -482,7 +482,7 @@
             "open_issues": 121,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6174,
+            "stars": 6175,
             "topics": [
               "analysis",
               "binary",
@@ -536,7 +536,7 @@
             "open_issues": 35,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3329,
+            "stars": 3332,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2575,
+            "stars": 2576,
             "topics": [
               "bootkit",
               "driver",
@@ -695,11 +695,11 @@
             "id": 16303018,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T04:22:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-15T03:11:55Z",
+            "open_issues": 1,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 934,
+            "stars": 935,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -874,7 +874,7 @@
             "open_issues": 73,
             "owner": "intel",
             "repo": "tsffs",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "fuzzing",
               "rust",
@@ -1354,7 +1354,7 @@
             "open_issues": 4,
             "owner": "Wack0",
             "repo": "CVE-2022-21894",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "cve-2022-21894",
               "cve-2023-24932",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:42:55.310Z",
+    "last_updated": "2026-11-15T16:14:12.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
