@@ -133,7 +133,7 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T03:10:24Z",
+            "last_commit": "2026-11-16T22:33:45Z",
             "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
@@ -235,8 +235,8 @@
             "id": 189661442,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T18:35:26Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-16T22:10:16Z",
+            "open_issues": 8,
             "owner": "tianocore",
             "repo": "edk2-pytool-library",
             "stars": 68,
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7991,
+            "stars": 7996,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 121,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6182,
+            "stars": 6188,
             "topics": [
               "analysis",
               "binary",
@@ -512,10 +512,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-27T14:01:22Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5798,
+            "stars": 5800,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2575,
+            "stars": 2578,
             "topics": [
               "bootkit",
               "driver",
@@ -589,7 +589,7 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T03:10:24Z",
+            "last_commit": "2026-11-16T22:33:45Z",
             "open_issues": 33,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
@@ -870,8 +870,8 @@
             "id": 690799710,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T19:13:23Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-17T15:55:30Z",
+            "open_issues": 66,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 337,
@@ -1117,6 +1117,33 @@
         },
         {
           "node_type": "item",
+          "title": "ebvm",
+          "description": "yabits/ebcvm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "EFI Byte Code Virtual Machine in userspace",
+            "homepage": null,
+            "id": 151960815,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2023-01-29T05:35:17Z",
+            "open_issues": 0,
+            "owner": "yabits",
+            "repo": "ebcvm",
+            "stars": 84,
+            "topics": [
+              "bytecode",
+              "ebc",
+              "uefi",
+              "virtual-machine",
+              "vm"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
+        },
+        {
+          "node_type": "item",
           "title": "smram_parse",
           "description": "Cr4sh/smram_parse",
           "children": [],
@@ -1142,33 +1169,6 @@
               "security",
               "smm",
               "uefi"
-            ]
-          },
-          "first_seen": "2026-08-28T20:48:50.598Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ebvm",
-          "description": "yabits/ebcvm",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "EFI Byte Code Virtual Machine in userspace",
-            "homepage": null,
-            "id": 151960815,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2023-01-29T05:35:17Z",
-            "open_issues": 0,
-            "owner": "yabits",
-            "repo": "ebcvm",
-            "stars": 83,
-            "topics": [
-              "bytecode",
-              "ebc",
-              "uefi",
-              "virtual-machine",
-              "vm"
             ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -1325,7 +1325,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "0day",
               "exploit",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:29:24.569Z",
+    "last_updated": "2026-11-17T18:24:15.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
