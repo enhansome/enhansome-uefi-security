@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 608,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -398,7 +398,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "PeiBackdoor",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "backdoor",
               "boot",
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 7996,
+            "stars": 8002,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-23T23:47:10Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6188,
+            "stars": 6190,
             "topics": [
               "analysis",
               "binary",
@@ -536,7 +536,7 @@
             "open_issues": 36,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3333,
+            "stars": 3334,
             "topics": [
               "firmware",
               "firmware-security",
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2578,
+            "stars": 2581,
             "topics": [
               "bootkit",
               "driver",
@@ -615,10 +615,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2025-02-06T21:28:26Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1416,
+            "stars": 1417,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -696,7 +696,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-15T03:11:55Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
             "stars": 935,
@@ -871,7 +871,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T15:55:30Z",
-            "open_issues": 66,
+            "open_issues": 71,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 337,
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:24:15.412Z",
+    "last_updated": "2026-11-18T17:56:13.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
