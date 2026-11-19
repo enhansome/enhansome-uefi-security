@@ -133,8 +133,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T22:33:45Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-19T14:51:07Z",
+            "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1683,
@@ -482,7 +482,7 @@
             "open_issues": 122,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6190,
+            "stars": 6191,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 27,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5800,
+            "stars": 5804,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2581,
+            "stars": 2583,
             "topics": [
               "bootkit",
               "driver",
@@ -589,8 +589,8 @@
             "id": 111702516,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T22:33:45Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-19T14:51:07Z",
+            "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
             "stars": 1683,
@@ -618,7 +618,7 @@
             "open_issues": 76,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1417,
+            "stars": 1418,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -870,8 +870,8 @@
             "id": 690799710,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T15:55:30Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-19T15:02:20Z",
+            "open_issues": 57,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 337,
@@ -1131,7 +1131,7 @@
             "open_issues": 0,
             "owner": "yabits",
             "repo": "ebcvm",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "bytecode",
               "ebc",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:56:13.342Z",
+    "last_updated": "2026-11-19T18:09:45.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
