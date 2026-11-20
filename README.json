@@ -137,7 +137,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1683,
+            "stars": 1682,
             "topics": [
               "osdev",
               "rust",
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "SmmBackdoor",
-            "stars": 640,
+            "stars": 639,
             "topics": [
               "backdoor",
               "boot",
@@ -482,7 +482,7 @@
             "open_issues": 122,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6191,
+            "stars": 6192,
             "topics": [
               "analysis",
               "binary",
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2583,
+            "stars": 2585,
             "topics": [
               "bootkit",
               "driver",
@@ -593,7 +593,7 @@
             "open_issues": 32,
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1683,
+            "stars": 1682,
             "topics": [
               "osdev",
               "rust",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1149,
+            "stars": 1148,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -699,7 +699,7 @@
             "open_issues": 3,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 935,
+            "stars": 937,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -874,7 +874,7 @@
             "open_issues": 57,
             "owner": "intel",
             "repo": "tsffs",
-            "stars": 337,
+            "stars": 336,
             "topics": [
               "fuzzing",
               "rust",
@@ -970,37 +970,6 @@
         },
         {
           "node_type": "item",
-          "title": "VBiosFinder",
-          "description": "coderobe/VBiosFinder",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Extract embedded VBIOS from (almost) any BIOS Update. the hail-mary way",
-            "homepage": null,
-            "id": 115261003,
-            "language": "Ruby",
-            "license": "AGPL-3.0",
-            "last_commit": "2023-11-05T02:03:34Z",
-            "open_issues": 30,
-            "owner": "coderobe",
-            "repo": "VBiosFinder",
-            "stars": 155,
-            "topics": [
-              "bios",
-              "gpu",
-              "hacktoberfest",
-              "hardware",
-              "linux",
-              "pci",
-              "pci-passthrough",
-              "uefi",
-              "vbios"
-            ]
-          },
-          "first_seen": "2026-08-28T20:48:50.598Z"
-        },
-        {
-          "node_type": "item",
           "title": "efi_fuzz",
           "description": "A coverage-guided emulator-based NVRAM fuzzer for UEFI (based on qiling).",
           "children": [],
@@ -1017,6 +986,37 @@
             "repo": "efi_fuzz",
             "stars": 154,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:50.598Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VBiosFinder",
+          "description": "coderobe/VBiosFinder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extract embedded VBIOS from (almost) any BIOS Update. the hail-mary way",
+            "homepage": null,
+            "id": 115261003,
+            "language": "Ruby",
+            "license": "AGPL-3.0",
+            "last_commit": "2023-11-05T02:03:34Z",
+            "open_issues": 30,
+            "owner": "coderobe",
+            "repo": "VBiosFinder",
+            "stars": 154,
+            "topics": [
+              "bios",
+              "gpu",
+              "hacktoberfest",
+              "hardware",
+              "linux",
+              "pci",
+              "pci-passthrough",
+              "uefi",
+              "vbios"
+            ]
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
         },
@@ -1325,7 +1325,7 @@
             "open_issues": 0,
             "owner": "Cr4sh",
             "repo": "ThinkPwn",
-            "stars": 714,
+            "stars": 713,
             "topics": [
               "0day",
               "exploit",
@@ -1354,7 +1354,7 @@
             "open_issues": 4,
             "owner": "Wack0",
             "repo": "CVE-2022-21894",
-            "stars": 355,
+            "stars": 354,
             "topics": [
               "cve-2022-21894",
               "cve-2023-24932",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:09:45.502Z",
+    "last_updated": "2026-11-20T17:41:58.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
