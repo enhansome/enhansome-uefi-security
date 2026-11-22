@@ -348,7 +348,7 @@
             "open_issues": 7,
             "owner": "btbd",
             "repo": "umap",
-            "stars": 609,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 8003,
+            "stars": 8005,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 131,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6193,
+            "stars": 6194,
             "topics": [
               "analysis",
               "binary",
@@ -515,7 +515,7 @@
             "open_issues": 27,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5804,
+            "stars": 5805,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "bootkit",
               "driver",
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "REhints",
             "repo": "efiXplorer",
-            "stars": 1148,
+            "stars": 1149,
             "topics": [
               "efi-guid",
               "efi-protocols",
@@ -678,7 +678,7 @@
             "open_issues": 0,
             "owner": "platomav",
             "repo": "BIOSUtilities",
-            "stars": 1107,
+            "stars": 1108,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -699,7 +699,7 @@
             "open_issues": 3,
             "owner": "theopolis",
             "repo": "uefi-firmware-parser",
-            "stars": 937,
+            "stars": 938,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -767,7 +767,7 @@
             "open_issues": 1,
             "owner": "Jamesits",
             "repo": "dropWPBT",
-            "stars": 448,
+            "stars": 447,
             "topics": [
               "acpi",
               "uefi",
@@ -871,7 +871,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T15:02:20Z",
-            "open_issues": 57,
+            "open_issues": 81,
             "owner": "intel",
             "repo": "tsffs",
             "stars": 336,
@@ -1292,7 +1292,7 @@
             "open_issues": 8,
             "owner": "ValdikSS",
             "repo": "Super-UEFIinSecureBoot-Disk",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "bootable-usb",
               "gpt",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:43:22.172Z",
+    "last_updated": "2026-11-22T17:02:22.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",
