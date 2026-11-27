@@ -215,7 +215,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-26T05:00:52Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "tianocore",
             "repo": "edk2-libc",
             "stars": 142,
@@ -461,7 +461,7 @@
             "open_issues": 10,
             "owner": "ufrisk",
             "repo": "pcileech",
-            "stars": 8013,
+            "stars": 8015,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -482,7 +482,7 @@
             "open_issues": 146,
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6205,
+            "stars": 6204,
             "topics": [
               "analysis",
               "binary",
@@ -512,10 +512,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-27T14:01:22Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "LongSoft",
             "repo": "UEFITool",
-            "stars": 5813,
+            "stars": 5814,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -533,7 +533,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-11-24T01:03:24Z",
-            "open_issues": 41,
+            "open_issues": 43,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3335,
@@ -563,7 +563,7 @@
             "open_issues": 21,
             "owner": "Mattiwatti",
             "repo": "EfiGuard",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "bootkit",
               "driver",
@@ -618,7 +618,7 @@
             "open_issues": 76,
             "owner": "dscharrer",
             "repo": "innoextract",
-            "stars": 1424,
+            "stars": 1426,
             "topics": [
               "boost",
               "c-plus-plus",
@@ -720,7 +720,7 @@
             "open_issues": 8,
             "owner": "SamuelTulach",
             "repo": "efi-memory",
-            "stars": 582,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:50.598Z"
@@ -819,7 +819,7 @@
             "open_issues": 61,
             "owner": "linuxboot",
             "repo": "fiano",
-            "stars": 377,
+            "stars": 376,
             "topics": [
               "firmware",
               "go",
@@ -1591,7 +1591,7 @@
             "open_issues": 4,
             "owner": "nccgroup",
             "repo": "TPMGenie",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "arduino",
               "hardware",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:56:37.644Z",
+    "last_updated": "2026-11-27T18:49:30.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓A collection of papers/tools/exploits for UEFI security.",

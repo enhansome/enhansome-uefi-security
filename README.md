@@ -38,7 +38,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 * [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,683 | 🐛 32 | 🌐 Rust | 📅 2026-11-26
 * [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons) ⭐ 379 | 🐛 1 | 🌐 C | 📅 2024-03-05
 * [arch-secure-boot](https://github.com/maximbaz/arch-secure-boot) ⭐ 145 | 🐛 2 | 🌐 Shell | 📅 2024-07-18
-* [edk2-libc](https://github.com/tianocore/edk2-libc) ⭐ 142 | 🐛 19 | 🌐 Python | 📅 2026-11-26
+* [edk2-libc](https://github.com/tianocore/edk2-libc) ⭐ 142 | 🐛 20 | 🌐 Python | 📅 2026-11-26
 * [edk2-pytool-library](https://github.com/tianocore/edk2-pytool-library) ⭐ 68 | 🐛 12 | 🌐 Python | 📅 2026-11-23
 * [EDK II](https://github.com/edk2/edk2)
 * [EDK II Module Write Guide](https://tianocore-docs.github.io/edk2-ModuleWriteGuide)
@@ -78,13 +78,13 @@ Bootkits related repositories:
 
 ## Tools :hammer:
 
-* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 8,013 | 🐛 10 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
-* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,205 | 🐛 146 | 🌐 Python | 📅 2026-10-23: Qiling has an EFI mode, which can partially emulate UEFI binary files.
-* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,813 | 🐛 27 | 🌐 C | 📅 2026-10-27: Tool for parsing and extracting UEFI firmware images.
-* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,335 | 🐛 41 | 🌐 Python | 📅 2026-11-24: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
-* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,587 | 🐛 21 | 🌐 C++ | 📅 2026-06-16
+* [PciLeech](https://github.com/ufrisk/pcileech) ⭐ 8,015 | 🐛 10 | 🌐 C | 📅 2026-10-05: PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
+* [qiling](https://github.com/qilingframework/qiling) ⭐ 6,204 | 🐛 146 | 🌐 Python | 📅 2026-10-23: Qiling has an EFI mode, which can partially emulate UEFI binary files.
+* [UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,814 | 🐛 26 | 🌐 C | 📅 2026-10-27: Tool for parsing and extracting UEFI firmware images.
+* [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,335 | 🐛 43 | 🌐 Python | 📅 2026-11-24: The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
+* [EfiGuard](https://github.com/Mattiwatti/EfiGuard) ⭐ 2,588 | 🐛 21 | 🌐 C++ | 📅 2026-06-16
 * [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,683 | 🐛 32 | 🌐 Rust | 📅 2026-11-26: A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
-* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,424 | 🐛 76 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
+* [innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,426 | 🐛 76 | 🌐 C++ | 📅 2025-02-06: A tool to unpack installers created by Inno Setup
 * [efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,151 | 🐛 0 | 🌐 C++ | 📅 2026-10-31: IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 * [BIOSUtiities](https://github.com/platomav/BIOSUtilities) ⭐ 1,109 | 🐛 0 | 🌐 Python | 📅 2026-10-18: A lot of scripts to parse and extract UEFI firmware images directly from exe files.
 * [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) ⭐ 938 | 🐛 1 | 🌐 Python | 📅 2026-11-25: Library for parsing UEFI firmware images.
@@ -92,7 +92,7 @@ Bootkits related repositories:
 * [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) ⭐ 511 | 🐛 11 | 🌐 Java | 📅 2026-09-01
 * [dropWPBT](https://github.com/Jamesits/dropWPBT) ⭐ 446 | 🐛 1 | 🌐 C | 📅 2020-05-22
 * [efiSeek](https://github.com/DSecurity/efiSeek) ⭐ 411 | 🐛 12 | 🌐 Java | 📅 2024-06-02: A Ghidra plugin for UEFI binaries analyzing.
-* [fiano](https://github.com/linuxboot/fiano) ⭐ 377 | 🐛 61 | 🌐 Go | 📅 2026-10-20
+* [fiano](https://github.com/linuxboot/fiano) ⭐ 376 | 🐛 61 | 🌐 Go | 📅 2026-10-20
 * [uefi-retool](https://github.com/yeggor/uefi_retool) ⚠️ Archived
 * [tsffs](https://github.com/intel/tsffs) ⭐ 337 | 🐛 86 | 🌐 Rust | 📅 2026-11-26: A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
 * [fwexpl](https://github.com/Cr4sh/fwexpl) ⭐ 264 | 🐛 0 | 🌐 C++ | 📅 2022-05-13
@@ -172,7 +172,7 @@ Bootkits related repositories:
 | 2009 |      Blackhat DC     |                                                                                [Attacking Intel® Trusted Execution Technology](https://www.blackhat.com/presentations/bh-dc-09/Wojtczuk_Rutkowska/BlackHat-DC-09-Rutkowska-Attacking-Intel-TXT-slides.pdf)                                                                               |
 | 2009 |       Blackhat       |                                                                                                                 [Introducing Ring -3 Rootkits](https://invisiblethingslab.com/resources/bh09usa/Ring%20-3%20Rootkits.pdf)                                                                                                                |
 | 2008 |       Blackhat       |                                                                                                            [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2-full.pdf)                                                                                                           |
-| 2018 |      CanSecWest      |                                                             [TPM Genie Attacking the Hardware Root of Trust For Less Than $50](https://github.com/nccgroup/TPMGenie/blob/master/docs/CanSecWest_2018_-_TPM_Genie_-_Jeremy_Boone.pdf) ⭐ 229 \| 🐛 4 \| 🌐 C++ \| 📅 2021-01-04                                                            |
+| 2018 |      CanSecWest      |                                                             [TPM Genie Attacking the Hardware Root of Trust For Less Than $50](https://github.com/nccgroup/TPMGenie/blob/master/docs/CanSecWest_2018_-_TPM_Genie_-_Jeremy_Boone.pdf) ⭐ 230 \| 🐛 4 \| 🌐 C++ \| 📅 2021-01-04                                                            |
 | 2015 |      CanSecWest      |                                                                                                                                            [A New Class of Vulnerabilities in SMI Handlers]()                                                                                                                                            |
 | 2015 |      CanSecWest      |                                                                                                    [Attacks on UEFI Security](https://web.archive.org/web/20150908083304/https://cansecwest.com/slides/2015/AttacksOnUEFI_Rafal.pptx)                                                                                                    |
 | 2014 |      CanSecWest      |                                                                                                              [ALL YOUR BOOT ARE BELONG TO US](https://papers.put.as/papers/firmware/2014/AllYourBoot_csw14-mitre-final.pdf)                                                                                                              |
@@ -307,4 +307,4 @@ Bootkits related repositories:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
